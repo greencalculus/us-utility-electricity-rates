@@ -2,9 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24071582.svg)](https://doi.org/10.5281/zenodo.24071582)
 
-What homes actually paid, all charges in, at the 40 biggest electric utilities in the United States: every month since January 1990, with the bill, the kWh, outages, rooftop solar, who supplies the homes and the counties served. Built from the returns each utility files with the US Energy Information Administration (EIA), merged across corporate changes and checked against the utilities' annual reports.
-
-No other public table we know of lines these up by utility back to 1990 under today's company names. EIA publishes the raw numbers year by year, under whichever name a utility used at the time.
+What homes actually paid, all charges in, at the 40 biggest electric utilities in the United States: every month since January 1990, with the bill, the kWh, outages, rooftop solar, who supplies the homes and the counties served. Built from the returns each utility files with the US Energy Information Administration (EIA) and merged across corporate changes, so each utility is one continuous series under today's name. EIA publishes the raw numbers year by year, under whichever name a utility used at the time.
 
 **Read it with charts, a bill check and a county finder:** <https://greencalculus.com/data/utility-rates/>
 
@@ -81,9 +79,9 @@ The live pages update each time EIA publishes a month. This archive is versioned
 
 ## Cite
 
-> Say, J. (2026). *US Utility Residential Electricity Prices, Monthly since 1990* (Version 2026.11.09) [Data set]. GreenCalculus. https://doi.org/10.5281/zenodo.24071582
+> Say, J. (2026). *US Utility Residential Electricity Prices, Monthly since 1990* (Version 2026.11.09.1) [Data set]. GreenCalculus. https://doi.org/10.5281/zenodo.24071582
 
-Always-latest DOI: `10.5281/zenodo.24071582`. This exact version: `10.5281/zenodo.24071583`. See `CITATION.cff`.
+Always-latest DOI: `10.5281/zenodo.24071582`. This exact version: `10.5281/zenodo.24071608`. See `CITATION.cff`.
 
 ## Licence
 

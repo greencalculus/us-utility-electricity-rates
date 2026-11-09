@@ -17,12 +17,12 @@ identifiers:
     value: "10.5281/zenodo.24071582"
     description: "Concept DOI (always the latest version)"
   - type: doi
-    value: "10.5281/zenodo.24071583"
-    description: "Version 2026.11.09 (EIA data to 2026-08)"
+    value: "10.5281/zenodo.24071608"
+    description: "Version 2026.11.09.1 (EIA data to 2026-08)"
   - type: url
     value: "https://greencalculus.com/data/utility-rates/"
     description: "Live page, refreshed monthly"
-version: "2026.11.09"
+version: "2026.11.09.1"
 date-released: "2026-11-09"
 url: "https://greencalculus.com/data/utility-rates/"
 repository-code: "https://github.com/greencalculus/us-utility-electricity-rates"
