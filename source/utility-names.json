@@ -1,0 +1,6298 @@
+{
+"10000": {
+"Evergy Metro": [
+"2019-01",
+"2025-12"
+],
+"Kansas City Power & Light Co": [
+"1990-01",
+"2018-12"
+],
+"Kansas City Power & Light Comp": [
+"1998-01",
+"2000-12"
+]
+},
+"10005": {
+"Evergy Kansas South, Inc": [
+"2019-01",
+"2025-12"
+],
+"Kansas Gas & Electric Co": [
+"1990-01",
+"2018-12"
+],
+"Kansas Gas & Electric Company": [
+"2001-01",
+"2001-12"
+]
+},
+"10015": {
+"Kansas Power & Light Co": [
+"1990-01",
+"1991-12"
+]
+},
+"10066": {
+"K C Electric Association": [
+"2003-01",
+"2025-12"
+]
+},
+"10071": {
+"Kauai Island Utility Cooperative": [
+"2002-11",
+"2025-12"
+]
+},
+"1015": {
+"Austin City of": [
+"1990-01",
+"1992-12"
+]
+},
+"10171": {
+"Kentucky Utilities Co": [
+"1990-01",
+"2025-12"
+],
+"Kentucky Utilities Company": [
+"1998-01",
+"2009-12"
+]
+},
+"10210": {
+"Ketchikan Public Utilities": [
+"1994-01",
+"2025-12"
+]
+},
+"10262": {
+"Kimball Light and Water Co": [
+"2001-01",
+"2007-06"
+]
+},
+"10331": {
+"Kingsport Power Co": [
+"1990-01",
+"2025-12"
+],
+"Kingsport Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"10345": {
+"Kinston City of": [
+"1990-01",
+"1990-12"
+]
+},
+"10421": {
+"City of Knoxville": [
+"1998-01",
+"2000-12"
+],
+"Knoxville City of": [
+"1991-01",
+"1997-12"
+],
+"Knoxville Utilities Board": [
+"2001-01",
+"2025-12"
+]
+},
+"10433": {
+"Kodiak Electric Assn Inc": [
+"1990-01",
+"2025-12"
+],
+"Kodiak Electric Assn, Inc": [
+"1998-01",
+"2000-12"
+],
+"Kodiak Electric Assoc": [
+"2001-01",
+"2001-12"
+]
+},
+"10451": {
+"": [
+"1997-12",
+"1997-12"
+],
+"Kotzebue Electric Assn Inc": [
+"2002-01",
+"2025-12"
+],
+"Kotzebue Electric Assn, Inc": [
+"1998-01",
+"2000-12"
+],
+"Kotzebue Electric Assn., Inc": [
+"2001-01",
+"2001-12"
+]
+},
+"10454": {
+"Kootenai Electric Coop Inc": [
+"2002-01",
+"2008-08"
+],
+"Kootenai Electric Coop, Inc": [
+"1996-01",
+"2001-12"
+],
+"Kootenai Electric Coop., Inc.": [
+"1998-01",
+"2000-12"
+],
+"Kootenai Electric Cooperative": [
+"2008-09",
+"2025-12"
+]
+},
+"10585": {
+"La Grange City of": [
+"1990-01",
+"1990-12"
+]
+},
+"10596": {
+"City of Lake Crystal": [
+"2004-01",
+"2010-12"
+],
+"City of Lake Crystal - (MN)": [
+"2011-01",
+"2025-12"
+]
+},
+"10603": {
+"Laclede Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"10608": {
+"Lake Park City of": [
+"1990-01",
+"1992-12"
+]
+},
+"10618": {
+"Lake Region Coop Elec Assn": [
+"1990-01",
+"1992-12"
+]
+},
+"10649": {
+"Lamar County Elec Coop Assn": [
+"1990-01",
+"1992-12"
+]
+},
+"10687": {
+"Lanett City of": [
+"1990-01",
+"1990-12"
+]
+},
+"10704": {
+"City of Lansing - (MI)": [
+"2011-01",
+"2025-12"
+],
+"Lansing Board of Water & Light": [
+"1993-01",
+"2000-12"
+],
+"Lansing Brd of Water & Light": [
+"2001-01",
+"2001-12"
+],
+"Lansing City of": [
+"2002-01",
+"2010-12"
+]
+},
+"10857": {
+"Lee County Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"10906": {
+"City of Lenoir - (TN)": [
+"2011-01",
+"2025-12"
+],
+"City of Lenoir City": [
+"1998-01",
+"2001-12"
+],
+"Lenoir City City of": [
+"1991-01",
+"1997-12"
+],
+"Lenoir City of": [
+"2002-01",
+"2010-12"
+]
+},
+"10935": {
+"Lewes City of": [
+"1990-01",
+"1992-12"
+]
+},
+"10960": {
+"Lewisburg City of": [
+"1991-01",
+"1992-12"
+]
+},
+"11018": {
+"Lincoln City of": [
+"1990-01",
+"1997-12"
+],
+"Lincoln Electric System": [
+"1998-01",
+"2025-12"
+]
+},
+"11053": {
+"Linn County Rural El Coop Assn": [
+"1990-01",
+"1992-12"
+]
+},
+"11099": {
+"Lingle Town of": [
+"1990-01",
+"1992-12"
+]
+},
+"11118": {
+"Lockhart Power Co": [
+"2001-01",
+"2025-12"
+]
+},
+"11135": {
+"City of Logan": [
+"2003-01",
+"2010-12"
+],
+"City of Logan - (UT)": [
+"2011-01",
+"2025-12"
+],
+"Logan City of": [
+"1990-01",
+"1992-12"
+]
+},
+"11171": {
+"": [
+"1999-02",
+"1999-12"
+],
+"Long Island Power Authority": [
+"2000-01",
+"2025-12"
+]
+},
+"11172": {
+"Long Island Lighting Co": [
+"1990-01",
+"1997-12"
+],
+"Long Island Lighting Company": [
+"1998-01",
+"1998-12"
+]
+},
+"11187": {
+"Longmont City of": [
+"1990-01",
+"1992-12"
+]
+},
+"11196": {
+"Littleton City of": [
+"1990-01",
+"1992-12"
+]
+},
+"11204": {
+"Los Alamos County": [
+"2008-01",
+"2024-12"
+],
+"Los Alamos County - (NM)": [
+"2025-01",
+"2025-12"
+]
+},
+"11205": {
+"Lucama Town of": [
+"1991-01",
+"1992-12"
+]
+},
+"11208": {
+"Los Angeles City of": [
+"1990-01",
+"2009-12"
+],
+"Los Angeles Department of Water & Power": [
+"2010-01",
+"2025-12"
+],
+"Los Angeles Dept of Wtr & Pwr": [
+"1998-01",
+"2001-12"
+]
+},
+"11241": {
+"Entergy Louisiana Inc": [
+"2002-01",
+"2012-12"
+],
+"Entergy Louisiana LLC": [
+"2013-01",
+"2025-12"
+],
+"Entergy Louisiana, Inc": [
+"2001-01",
+"2001-12"
+],
+"Louisiana Power & Light Co": [
+"1990-01",
+"2000-12"
+]
+},
+"11249": {
+"Louisville Gas & Electric Co": [
+"1990-01",
+"2025-12"
+],
+"Louisville Gas and Electric Company": [
+"2003-02",
+"2009-12"
+]
+},
+"11251": {
+"Loup River Public Power Dist": [
+"1990-01",
+"2025-12"
+]
+},
+"11256": {
+"Loveland City of": [
+"1990-01",
+"1992-12"
+]
+},
+"11273": {
+"Lower Valley Energy Inc": [
+"2002-01",
+"2025-12"
+],
+"Lower Valley Power & Light Inc": [
+"1990-01",
+"2001-12"
+]
+},
+"11293": {
+"Lubec City of": [
+"1990-01",
+"1990-08"
+]
+},
+"1130": {
+"Baker Electric Coop Inc": [
+"1990-01",
+"1997-12"
+],
+"Northern Plains Elec Coop": [
+"1998-01",
+"2000-12"
+]
+},
+"11359": {
+"Lyndonville Village of": [
+"1990-01",
+"1992-12"
+]
+},
+"11475": {
+"City of Madison": [
+"2003-01",
+"2010-12"
+],
+"City of Madison - (SD)": [
+"2011-01",
+"2025-12"
+]
+},
+"11477": {
+"Town of Madison (ME)": [
+"2001-01",
+"2010-12"
+],
+"Town of Madison - (ME)": [
+"2011-01",
+"2025-12"
+]
+},
+"11479": {
+"Madison Gas & Electric Co": [
+"1990-01",
+"2025-12"
+],
+"Madison Gas & Electric Company": [
+"2001-01",
+"2001-12"
+]
+},
+"11522": {
+"Maine Public Service Co": [
+"2004-03",
+"2004-03"
+],
+"Maine Public Service Company": [
+"1993-01",
+"2000-07"
+]
+},
+"11541": {
+"Manitou City of": [
+"1990-01",
+"1992-12"
+]
+},
+"11591": {
+"Manley Utility Co": [
+"2001-01",
+"2004-12"
+]
+},
+"11646": {
+"Marietta City of": [
+"1990-01",
+"1992-12"
+]
+},
+"1167": {
+"Baltimore Gas & Electric Co": [
+"1990-01",
+"2025-12"
+]
+},
+"1170": {
+"Bamberg City of": [
+"1990-01",
+"1992-12"
+]
+},
+"11714": {
+"Marshall-De Kalb Electric Coop": [
+"1991-01",
+"1992-12"
+]
+},
+"1179": {
+"Bangor Hydro-Electric Co": [
+"1990-01",
+"2002-03"
+],
+"Bangor Hydro-Electric Company": [
+"1998-01",
+"2001-12"
+],
+"Emera Maine": [
+"2015-01",
+"2018-12"
+],
+"Versant Power": [
+"2019-01",
+"2025-12"
+]
+},
+"11804": {
+"Massachusetts Electric Co": [
+"1990-01",
+"2025-12"
+],
+"Massachusetts Electric Company": [
+"1998-01",
+"2001-12"
+]
+},
+"11824": {
+"Matanuska Electric Assn Inc": [
+"1990-01",
+"2025-12"
+],
+"Matanuska Electric Assn, Inc": [
+"1998-01",
+"2001-12"
+]
+},
+"11843": {
+"Maui Electric Co Ltd": [
+"1990-01",
+"2025-12"
+],
+"Maui Electric Company, Ltd": [
+"2001-01",
+"2001-12"
+],
+"Maui Electric Company, Ltd.": [
+"1998-01",
+"2000-12"
+]
+},
+"11844": {
+"Matinicus Plantation Elec Co": [
+"1990-09",
+"1992-12"
+]
+},
+"11895": {
+"Mazomanie Village of": [
+"1990-01",
+"1992-12"
+]
+},
+"1201": {
+"Barbourville City of": [
+"1991-01",
+"1992-12"
+]
+},
+"12087": {
+"McKenzie Electric Coop Inc": [
+"1990-01",
+"2025-12"
+],
+"McKenzie Electric Coop, Inc": [
+"1998-01",
+"2001-12"
+]
+},
+"12090": {
+"McLean Electric Coop, Inc": [
+"2003-01",
+"2025-12"
+]
+},
+"12119": {
+"McGrath Light and Power Co": [
+"2001-01",
+"2004-12"
+]
+},
+"12167": {
+"McLeansboro City of": [
+"1990-01",
+"1992-12"
+]
+},
+"12187": {
+"McMinnville City of": [
+"1990-01",
+"1992-12"
+]
+},
+"12199": {
+"MDU Resources Group Inc": [
+"2002-01",
+"2007-12"
+],
+"Montana-Dakota Utilities Co": [
+"1993-01",
+"2025-12"
+],
+"Montana-Dakota Utilities Co.": [
+"1998-01",
+"2000-12"
+]
+},
+"12260": {
+"Mecklenburg Electric Coop Inc": [
+"1991-01",
+"1992-12"
+]
+},
+"12293": {
+"City of Memphis": [
+"1998-01",
+"2001-12"
+],
+"City of Memphis - (TN)": [
+"2011-01",
+"2025-12"
+],
+"Memphis City of": [
+"1991-01",
+"2010-12"
+]
+},
+"12301": {
+"Nodak Electric Coop Inc": [
+"2002-01",
+"2025-12"
+],
+"Nodak Electric Cooperative": [
+"1998-01",
+"2000-12"
+],
+"Nodak Rural Electric Coop Inc": [
+"1990-01",
+"1997-12"
+],
+"Nodak Rural Electric Coop, Inc": [
+"2001-01",
+"2001-12"
+]
+},
+"12330": {
+"Meriwether Lewis Electric Coop": [
+"1991-01",
+"1992-12"
+]
+},
+"12341": {
+"Mid American Energy Company": [
+"1998-01",
+"2000-12"
+],
+"MidAmerican Energy Co": [
+"2002-01",
+"2025-12"
+],
+"MidAmerican Energy Company": [
+"1995-07",
+"2001-12"
+]
+},
+"12351": {
+"Mesa City of": [
+"1990-01",
+"1992-12"
+]
+},
+"12390": {
+"Metropolitan Edison Co": [
+"1990-01",
+"2024-01"
+],
+"Metropolitan Edison Company": [
+"2001-01",
+"2001-12"
+]
+},
+"12470": {
+"Middle Tennessee E M C": [
+"1991-01",
+"2025-12"
+],
+"Middle Tennessee Valley": [
+"2001-01",
+"2001-12"
+]
+},
+"12478": {
+"Middletown Town of": [
+"1990-01",
+"1992-12"
+]
+},
+"12524": {
+"Midwest Energy Inc": [
+"2002-01",
+"2022-12"
+],
+"Midwest Energy Inc - (KS)": [
+"2023-01",
+"2025-12"
+],
+"Midwest Energy, Inc": [
+"1994-01",
+"2001-12"
+],
+"Midwest Energy, Inc.": [
+"1998-01",
+"2000-12"
+]
+},
+"12539": {
+"Midwest Electric Member Corp": [
+"2008-01",
+"2022-12"
+],
+"Midwest Electric Member Corp - (NE)": [
+"2023-01",
+"2025-12"
+]
+},
+"12546": {
+"Mille Lacs Electric Coop": [
+"1990-01",
+"1992-12"
+]
+},
+"12647": {
+"ALLETE, Inc.": [
+"2003-01",
+"2025-12"
+],
+"Minnesota Power": [
+"1998-01",
+"2000-12"
+],
+"Minnesota Power & Light Co": [
+"1990-01",
+"1997-12"
+],
+"Minnesota Power Inc": [
+"2001-01",
+"2012-12"
+]
+},
+"12681": {
+"Mississippi County Electric Co": [
+"2010-01",
+"2025-12"
+],
+"Mississippi County Electric Coop": [
+"2008-01",
+"2009-12"
+]
+},
+"12685": {
+"Entergy Mississippi Inc": [
+"2002-01",
+"2017-12"
+],
+"Entergy Mississippi LLC": [
+"2018-01",
+"2025-12"
+],
+"Entergy Mississippi, Inc": [
+"2001-01",
+"2001-12"
+],
+"Mississippi Power & Light Co": [
+"1990-01",
+"2000-12"
+]
+},
+"12686": {
+"Mississippi Power Co": [
+"1990-01",
+"2025-12"
+],
+"Mississippi Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"12692": {
+"Missoula Electric Coop, Inc": [
+"2008-01",
+"2025-12"
+]
+},
+"12698": {
+"Aquila Inc": [
+"2002-02",
+"2007-12"
+],
+"Evergy Missouri West": [
+"2019-01",
+"2025-12"
+],
+"KCP&L Greater Missouri Operations": [
+"2008-01",
+"2009-12"
+],
+"KCP&L Greater Missouri Operations Co.": [
+"2011-01",
+"2018-12"
+],
+"UtiliCorp United Inc": [
+"1990-01",
+"1997-12"
+],
+"UtiliCorp United, Inc": [
+"1998-01",
+"2010-12"
+]
+},
+"12706": {
+"Mitchell Electric Member Corp": [
+"1990-01",
+"1990-12"
+]
+},
+"12745": {
+"Modesto Irrigation District": [
+"1990-01",
+"2025-12"
+]
+},
+"12796": {
+"Monongahela Power Co": [
+"1990-01",
+"2025-12"
+],
+"Monongahela Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"12819": {
+"Montana-Dakota Utilities Co": [
+"1990-01",
+"1992-12"
+]
+},
+"12825": {
+"Montana Power Co": [
+"1990-01",
+"1997-12"
+],
+"Montana Power Company": [
+"1998-01",
+"2001-12"
+],
+"NorthWestern Corporation": [
+"2008-01",
+"2009-12"
+],
+"NorthWestern Energy LLC": [
+"2002-01",
+"2010-12"
+],
+"NorthWestern Energy LLC - (MT)": [
+"2011-01",
+"2025-12"
+]
+},
+"12866": {
+"Moon Lake Electric Assn Inc": [
+"1990-01",
+"2025-12"
+],
+"Moon Lake Electric Assn, Inc": [
+"1998-01",
+"2001-12"
+]
+},
+"12876": {
+"Moore Haven City of": [
+"1990-01",
+"1992-12"
+]
+},
+"12919": {
+"Morenci Water and Electric": [
+"2005-07",
+"2025-12"
+],
+"Morenci Water and Electric Co": [
+"2001-01",
+"2005-06"
+]
+},
+"13032": {
+"Mt Carmel Public Util Co": [
+"2001-01",
+"2001-12"
+],
+"Mt Carmel Public Utility Co": [
+"2002-01",
+"2025-12"
+]
+},
+"13073": {
+"Mt Wheeler Power Inc": [
+"1990-01",
+"1992-12"
+],
+"Mt Wheeler Power, Inc": [
+"2003-01",
+"2025-12"
+]
+},
+"13119": {
+"Murfreesboro City of": [
+"1991-01",
+"1992-12"
+]
+},
+"13149": {
+"Needles City of": [
+"1990-01",
+"1992-12"
+]
+},
+"13151": {
+"CPL Retail Energy, LP": [
+"2003-04",
+"2003-04"
+]
+},
+"13196": {
+"Northern Plains Electric Coop": [
+"2001-01",
+"2025-12"
+]
+},
+"13206": {
+"Nantucket Electric Co": [
+"2001-01",
+"2025-12"
+]
+},
+"13211": {
+"Napakiak Ircinraq Power CO": [
+"2001-01",
+"2001-12"
+],
+"Napakiak Ircinraq Power Co": [
+"2002-01",
+"2004-12"
+]
+},
+"13214": {
+"Narragansett Electric Co": [
+"1990-01",
+"1997-12"
+],
+"Narragansett Electric Company": [
+"1998-01",
+"2001-12"
+],
+"The Narragansett Electric Co": [
+"2002-01",
+"2025-12"
+]
+},
+"13216": {
+"Nashville City of": [
+"1991-01",
+"1997-12"
+],
+"Nashville Electric Service": [
+"1998-01",
+"2025-12"
+]
+},
+"13314": {
+"Navajo Tribal Utility Authorit": [
+"2010-01",
+"2011-12"
+],
+"Navajo Tribal Utility Authority": [
+"2004-01",
+"2025-12"
+]
+},
+"13318": {
+"Navopache Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"13337": {
+"Nebraska Public Power District": [
+"1990-01",
+"2025-12"
+]
+},
+"13407": {
+"Nevada Power Co": [
+"1990-01",
+"2025-12"
+],
+"Nevada Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"13420": {
+"New Bremen Village of": [
+"1990-01",
+"1992-12"
+]
+},
+"13433": {
+"New England Power Company": [
+"2005-01",
+"2005-10"
+]
+},
+"13441": {
+"New Hampshire Elec Coop Inc": [
+"2002-01",
+"2025-12"
+],
+"New Hampshire Elec Coop, Inc": [
+"1993-01",
+"2001-12"
+]
+},
+"13478": {
+"Entergy New Orleans Inc": [
+"2002-01",
+"2016-12"
+],
+"Entergy New Orleans, Inc": [
+"2001-01",
+"2001-12"
+],
+"Entergy New Orleans, LLC": [
+"2017-01",
+"2025-12"
+],
+"New Orleans Public Service Inc": [
+"1990-01",
+"2000-12"
+]
+},
+"13511": {
+"New York State Elec & Gas Corp": [
+"1990-01",
+"2025-12"
+],
+"New York State Gas & Electric": [
+"1995-01",
+"1997-12"
+]
+},
+"13519": {
+"City of Newark": [
+"1995-01",
+"2001-12"
+],
+"City of Newark - (DE)": [
+"2011-01",
+"2025-12"
+],
+"City of Newark-(DE)": [
+"2012-03",
+"2012-03"
+],
+"Newark City of": [
+"1990-01",
+"2010-12"
+]
+},
+"13549": {
+"Newport Electric Corp": [
+"1990-01",
+"1997-12"
+],
+"Newport Electric Corporation": [
+"1998-01",
+"2000-04"
+]
+},
+"13573": {
+"Niagara Mohawk Power Corp": [
+"1990-01",
+"2000-12"
+],
+"Niagara Mohawk Power Corp.": [
+"2001-01",
+"2025-12"
+]
+},
+"13640": {
+"Northern Virginia Elec Coop": [
+"1991-01",
+"1992-12"
+]
+},
+"13664": {
+"Norris Public Power District": [
+"1990-01",
+"2025-12"
+]
+},
+"13694": {
+"North Central Elec Coop, Inc": [
+"2003-01",
+"2022-12"
+],
+"North Central Elec Coop, Inc - (ND)": [
+"2023-01",
+"2025-12"
+]
+},
+"13697": {
+"North Central Power Co Inc": [
+"2001-01",
+"2025-12"
+]
+},
+"13716": {
+"North Georgia Elec Member Corp": [
+"1991-01",
+"1992-12"
+]
+},
+"13718": {
+"City of North Little Rock - (AR)": [
+"2014-06",
+"2025-12"
+],
+"North Little Rock City of": [
+"1990-01",
+"1992-12"
+]
+},
+"13725": {
+"North Platte City of": [
+"1990-01",
+"1992-12"
+]
+},
+"13734": {
+"Northeast OK Elec Coop Inc": [
+"2002-01",
+"2003-02"
+],
+"Northeast Oklahoma El Coop Inc": [
+"1990-01",
+"2001-12"
+],
+"Northeast Oklahoma Electric Co": [
+"1993-01",
+"2025-12"
+],
+"Northeast Oklahoma Electric Coop, In": [
+"2003-03",
+"2004-12"
+],
+"Northeast Oklahoma Electric Coop, Inc": [
+"2005-01",
+"2009-12"
+]
+},
+"13745": {
+"Nodaway Worth Elec Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"13749": {
+"Northern Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"13750": {
+"Northern Electric Coop Inc": [
+"1990-01",
+"1992-12"
+],
+"Northern Electric Coop, Inc": [
+"2003-01",
+"2025-12"
+]
+},
+"13756": {
+"Northern Indiana Pub Serv Co": [
+"1990-01",
+"2025-12"
+]
+},
+"13758": {
+"Northern Lights Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"13780": {
+"Northern States Power Co": [
+"1990-01",
+"2025-12"
+],
+"Northern States Power Co - Wisconsin": [
+"2009-01",
+"2009-12"
+],
+"Northern States Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"13781": {
+"Northern States Power Co": [
+"1990-01",
+"2008-12"
+],
+"Northern States Power Co - Minnesota": [
+"2009-01",
+"2025-12"
+],
+"Northern States Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"13809": {
+"NorthWestern Energy": [
+"2003-04",
+"2010-12"
+],
+"NorthWestern Energy - (SD)": [
+"2011-01",
+"2025-12"
+],
+"Northwestern Public Service Co": [
+"1990-01",
+"2003-03"
+]
+},
+"13815": {
+"Northwestern Wisc Elect Co": [
+"2001-01",
+"2001-12"
+],
+"Northwestern Wisconsin Elec Co": [
+"2002-01",
+"2025-12"
+]
+},
+"13830": {
+"Nueces Electric Cooperative": [
+"2017-01",
+"2025-12"
+]
+},
+"13831": {
+"Norwich City of": [
+"1990-01",
+"1992-12"
+]
+},
+"1387": {
+"Benham City of": [
+"1990-01",
+"1990-12"
+]
+},
+"13870": {
+"Nushagak Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"13941": {
+"Oakley City of": [
+"1991-01",
+"1992-12"
+]
+},
+"13962": {
+"Oconee Electric Member Corp": [
+"1991-01",
+"1992-12"
+]
+},
+"13993": {
+"Oglesby City of": [
+"1990-01",
+"1992-12"
+]
+},
+"13998": {
+"Ohio Edison": [
+"1998-01",
+"2000-12"
+],
+"Ohio Edison Co": [
+"1990-01",
+"2025-12"
+],
+"Ohio Edison Company": [
+"2001-01",
+"2001-12"
+]
+},
+"14006": {
+"Ohio Power Co": [
+"1990-01",
+"2025-12"
+],
+"Ohio Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"14015": {
+"Ohio Valley Electric Corp": [
+"1990-01",
+"2025-12"
+]
+},
+"14022": {
+"Oak City Town of": [
+"1990-01",
+"1992-12"
+]
+},
+"14062": {
+"Oklahoma Electric Coop Inc": [
+"2002-01",
+"2025-12"
+],
+"Oklahoma Electric Coop, Inc": [
+"1993-01",
+"2001-12"
+]
+},
+"14063": {
+"Oklahoma Gas & Electric Co": [
+"1990-01",
+"2025-12"
+]
+},
+"14088": {
+"Oliver-Mercer Elec Coop Inc": [
+"1990-01",
+"2008-02"
+],
+"Oliver-Mercer Elec Coop, Inc": [
+"1994-01",
+"2001-12"
+]
+},
+"14109": {
+"Oregon Trails": [
+"1990-01",
+"1992-12"
+]
+},
+"14127": {
+"Omaha Public Power District": [
+"1990-01",
+"2025-12"
+]
+},
+"14154": {
+"Orange & Rockland Utils Inc": [
+"1990-01",
+"2025-12"
+],
+"Orange & Rockland Utils, Inc": [
+"2001-01",
+"2001-12"
+]
+},
+"14232": {
+"Otter Tail Power Co": [
+"1990-01",
+"2025-12"
+],
+"Otter Tail Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"14251": {
+"Owen County Rural El Coop Corp": [
+"1990-01",
+"1990-12"
+]
+},
+"14268": {
+"Owensboro City of": [
+"1990-01",
+"1990-12"
+]
+},
+"14289": {
+"Ozarks Electric Coop Corp": [
+"1990-01",
+"1992-12"
+]
+},
+"14328": {
+"Pacific Gas & Electric Co": [
+"1990-01",
+"2016-12"
+],
+"Pacific Gas & Electric Co.": [
+"2017-01",
+"2025-12"
+],
+"Pacific Gas & Electric Company": [
+"1998-01",
+"2001-12"
+]
+},
+"14354": {
+"PacifiCorp": [
+"1998-01",
+"2025-12"
+],
+"Pacificorp dba Pacific Pwr & L": [
+"1991-01",
+"1997-12"
+]
+},
+"14356": {
+"Pacific Power & Light Co": [
+"1990-01",
+"1990-12"
+],
+"Utah Power & Light Co": [
+"1990-01",
+"1990-12"
+]
+},
+"14398": {
+"Palmetto Electric Coop Inc": [
+"2002-01",
+"2025-12"
+],
+"Palmetto Electric Coop, Inc": [
+"1993-01",
+"2001-12"
+]
+},
+"14534": {
+"City of Pasadena": [
+"2005-01",
+"2010-12"
+],
+"City of Pasadena - (CA)": [
+"2011-01",
+"2025-12"
+]
+},
+"14537": {
+"Clear River Electric and Water District": [
+"2025-01",
+"2025-12"
+],
+"Pascoag Fire District": [
+"1990-01",
+"1992-12"
+],
+"Pascoag Utility District": [
+"2008-01",
+"2024-12"
+]
+},
+"1458": {
+"Beauregard Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"14648": {
+"Pemberton Borough of": [
+"1990-01",
+"1992-12"
+]
+},
+"14656": {
+"Pender City of": [
+"1990-01",
+"1992-12"
+]
+},
+"14711": {
+"": [
+"2011-06",
+"2011-06"
+],
+"Pennsylvania Electric Co": [
+"1990-01",
+"2024-01"
+],
+"Pennsylvania Electric Company": [
+"2001-01",
+"2001-12"
+]
+},
+"14715": {
+"PP&L, Inc.": [
+"1998-01",
+"2000-12"
+],
+"PPL Electric Utilities Corp": [
+"2001-01",
+"2025-12"
+],
+"PPL Electric Utilities Corporation": [
+"2005-01",
+"2009-12"
+],
+"Pennsylvania Power & Light Co": [
+"1990-01",
+"1997-12"
+]
+},
+"14716": {
+"Pennsylvania Power Co": [
+"2001-01",
+"2024-01"
+]
+},
+"14724": {
+"Pennyrile Rural Elec. Coop-TVA": [
+"1998-01",
+"2000-12"
+],
+"Pennyrile Rural Electric Coop": [
+"1996-01",
+"2025-12"
+]
+},
+"14940": {
+"PECO Energy Co": [
+"2002-01",
+"2025-12"
+],
+"PECO Energy Company": [
+"1998-01",
+"2001-12"
+],
+"Philadelphia Electric Co": [
+"1990-01",
+"1997-12"
+]
+},
+"15040": {
+"City of Pierre": [
+"1998-01",
+"2001-12"
+],
+"City of Pierre - (SD)": [
+"2011-01",
+"2025-12"
+],
+"Pierre City of": [
+"2002-01",
+"2010-12"
+],
+"Pierre Municipal Electric": [
+"1993-01",
+"1997-12"
+]
+},
+"15045": {
+"Pike County Light & Power Co": [
+"2002-01",
+"2025-12"
+],
+"Pike County Light and Power": [
+"2001-01",
+"2001-12"
+]
+},
+"15073": {
+"Pioneer Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"15086": {
+"Pioneer Power and Light Co": [
+"2001-01",
+"2025-12"
+]
+},
+"15137": {
+"Plaquemine City of": [
+"1990-01",
+"1992-12"
+]
+},
+"15248": {
+"Portland General Electric": [
+"1998-01",
+"2000-12"
+],
+"Portland General Electric Co": [
+"1990-01",
+"2025-12"
+]
+},
+"15257": {
+"Poudre Valley Associated Services, Inc.": [
+"2016-01",
+"2016-12"
+],
+"Poudre Valley R  E  A, Inc": [
+"2001-01",
+"2015-12"
+],
+"Poudre Valley R E A, Inc": [
+"1993-01",
+"1997-12"
+],
+"Poudre Valley R. E. A Inc": [
+"1998-01",
+"2000-12"
+],
+"Poudre Valley REA, Inc": [
+"2012-12",
+"2025-12"
+]
+},
+"15263": {
+"Potomac Edison Co": [
+"1990-01",
+"1997-12"
+],
+"The Potomac Edison Co": [
+"2002-01",
+"2009-07"
+],
+"The Potomac Edison Company": [
+"1998-01",
+"2025-12"
+]
+},
+"15270": {
+"Potomac Electric Power Co": [
+"1990-01",
+"2025-12"
+],
+"Potomac Electric Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"15296": {
+"Power Authority of State of NY": [
+"1990-01",
+"2000-12"
+]
+},
+"15317": {
+"Prairie Power Coop Inc": [
+"1990-01",
+"1991-12"
+]
+},
+"15337": {
+"Prescott City of": [
+"1990-01",
+"1992-12"
+]
+},
+"15344": {
+"Polk-Burnett Electric Coop": [
+"1990-01",
+"1992-12"
+]
+},
+"15444": {
+"Provo City Corp": [
+"2002-01",
+"2025-12"
+],
+"Provo City Corporation": [
+"1993-01",
+"2000-12"
+],
+"Provo City Energy Corporation": [
+"2001-01",
+"2001-12"
+]
+},
+"15466": {
+"Public Service Co of Colorado": [
+"1990-01",
+"2025-12"
+]
+},
+"15470": {
+"Duke Energy Indiana Inc": [
+"2006-12",
+"2014-12"
+],
+"Duke Energy Indiana, LLC": [
+"2015-01",
+"2025-12"
+],
+"PSI Energy Inc": [
+"2002-01",
+"2006-11"
+],
+"PSI Energy, Inc": [
+"2001-01",
+"2001-12"
+],
+"PSI Energy, Inc.": [
+"1998-01",
+"2000-12"
+],
+"Public Service Co of IN Inc": [
+"1990-01",
+"1997-12"
+]
+},
+"15472": {
+"Public Service Co of NH": [
+"1990-01",
+"2025-12"
+],
+"Public Service Co. of NH": [
+"1998-01",
+"2000-12"
+],
+"Public Service Company of NH": [
+"2001-01",
+"2001-12"
+]
+},
+"15473": {
+"Public  Service Company of NM": [
+"1998-01",
+"2000-12"
+],
+"Public Service Co of NM": [
+"1990-01",
+"2025-12"
+],
+"Public Service Company of NM": [
+"2001-01",
+"2001-12"
+]
+},
+"15474": {
+"Public Service Co of Oklahoma": [
+"1990-01",
+"2025-12"
+],
+"Public Service Company of Okla": [
+"1998-01",
+"2000-12"
+]
+},
+"15477": {
+"Public Service Elec & Gas Co": [
+"2002-01",
+"2025-12"
+],
+"Public Service Electric&Gas Co": [
+"1990-01",
+"2001-12"
+]
+},
+"15500": {
+"Puget Sound Energy Inc": [
+"2002-01",
+"2025-12"
+],
+"Puget Sound Energy, Inc": [
+"2001-01",
+"2001-12"
+],
+"Puget Sound Power & Light Co": [
+"1990-01",
+"1997-12"
+],
+"Puget Sound Power Energy, Inc.": [
+"1998-01",
+"2000-12"
+]
+},
+"15671": {
+"Randolph Electric Member Corp": [
+"1991-01",
+"1992-12"
+]
+},
+"15748": {
+"City of Reading": [
+"1993-01",
+"1997-12"
+],
+"Reading Municipal Light Dept.": [
+"1998-01",
+"2001-12"
+],
+"Reading Town of": [
+"2002-01",
+"2010-12"
+],
+"Town of Reading - (MA)": [
+"2011-01",
+"2025-12"
+]
+},
+"1581": {
+"Benton City of": [
+"1991-01",
+"1992-12"
+]
+},
+"1594": {
+"Berea College": [
+"2002-01",
+"2005-01"
+],
+"Berea College Utilities": [
+"2001-01",
+"2001-12"
+]
+},
+"15982": {
+"Richlands Town of": [
+"1991-01",
+"1992-12"
+]
+},
+"16093": {
+"Riverton Valley Elec Assn Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"1613": {
+"Berkeley Electric Coop Inc": [
+"1990-01",
+"2025-12"
+],
+"Berkeley Electric Coop, Inc": [
+"1998-01",
+"2001-12"
+]
+},
+"16181": {
+"Rochester City of": [
+"1990-01",
+"1992-12"
+],
+"Rochester Public Utilities": [
+"1994-01",
+"2025-12"
+]
+},
+"16182": {
+"Rochester Elec Lgt and Power": [
+"2001-01",
+"2006-08"
+]
+},
+"16183": {
+"Rochester Gas & Electric Corp": [
+"1990-01",
+"2025-12"
+]
+},
+"16195": {
+"Rock Hill City of": [
+"1990-01",
+"1992-12"
+]
+},
+"16213": {
+"Rockland Electric Co": [
+"1990-01",
+"2025-12"
+],
+"Rockland Electric Company": [
+"1995-01",
+"2001-12"
+]
+},
+"16226": {
+"Rocky Mount City of": [
+"1990-01",
+"1990-12"
+]
+},
+"16286": {
+"Rosebud Electric Coop Inc": [
+"1990-01",
+"2025-12"
+],
+"Rosebud Electric Coop, Inc": [
+"1998-01",
+"2001-12"
+]
+},
+"16368": {
+"Runestone Electric Assn": [
+"1990-01",
+"1992-12"
+]
+},
+"16496": {
+"": [
+"1998-01",
+"2000-12"
+],
+"Rutherford Elec Member Corp": [
+"1993-01",
+"2025-12"
+]
+},
+"1651": {
+"Bethel Utilities Corp": [
+"2001-01",
+"2014-04"
+]
+},
+"16534": {
+"Sacramento Muni Utility Dist": [
+"1998-01",
+"2000-12"
+],
+"Sacramento Municipal Util Dist": [
+"1993-01",
+"2025-12"
+],
+"Sacremento Muni Utility Dist": [
+"2001-01",
+"2001-12"
+]
+},
+"16538": {
+"Safford City of": [
+"1990-01",
+"1992-12"
+]
+},
+"16565": {
+"Salmon River Elec. Coop., Inc.": [
+"1998-01",
+"2000-12"
+],
+"Salmon River Electric Coop Inc": [
+"1996-01",
+"2025-12"
+]
+},
+"16572": {
+"Salt River Proj Ag I & P Dist": [
+"1990-01",
+"1997-12"
+],
+"Salt River Project": [
+"1998-01",
+"2025-12"
+]
+},
+"16603": {
+"San Luis Valley R E C, Inc": [
+"2003-01",
+"2025-12"
+]
+},
+"16604": {
+"City of San Antonio - (TX)": [
+"2011-01",
+"2025-12"
+],
+"San Antonio City of": [
+"1990-01",
+"2010-12"
+],
+"San Antonio Public Service Bd": [
+"1998-01",
+"2000-12"
+],
+"San Antonio Public Service Bd.": [
+"2001-01",
+"2001-12"
+]
+},
+"16609": {
+"": [
+"2000-10",
+"2000-12"
+],
+"San Diego Gas & Electric Co": [
+"1990-01",
+"2025-12"
+]
+},
+"16612": {
+"City & County of San Francisco": [
+"2011-01",
+"2024-12"
+],
+"City & County of San Francisco - (CA)": [
+"2025-01",
+"2025-12"
+],
+"San Francisco City & County of": [
+"2004-01",
+"2010-12"
+]
+},
+"16655": {
+"City of Santa Clara - (CA)": [
+"2015-01",
+"2025-12"
+]
+},
+"16687": {
+"SAVANNAH ELECTRIC & POWER CO": [
+"1998-01",
+"2000-12"
+],
+"Savannah Electric & Power Co": [
+"1990-01",
+"2006-06"
+]
+},
+"16759": {
+"Sheridan Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"16778": {
+"Schuyler City of": [
+"1990-01",
+"1992-12"
+]
+},
+"16788": {
+"Scotland Neck Town of": [
+"1991-01",
+"1992-12"
+]
+},
+"16868": {
+"City of Seattle - (WA)": [
+"2011-01",
+"2025-12"
+],
+"Seattle City Light": [
+"1998-01",
+"2001-12"
+],
+"Seattle City of": [
+"1990-01",
+"2010-12"
+]
+},
+"16877": {
+"Sebring Utilities Comm": [
+"1990-01",
+"1992-12"
+]
+},
+"16949": {
+"Sevier County": [
+"1991-01",
+"1992-12"
+]
+},
+"16955": {
+"Seward City of": [
+"1990-01",
+"1992-12"
+]
+},
+"17008": {
+"Sharyland Utilities LP": [
+"2010-07",
+"2014-06"
+]
+},
+"17033": {
+"Sheffield City of": [
+"1991-01",
+"1992-12"
+]
+},
+"17066": {
+"Shenandoah Valley Elec Coop": [
+"2010-01",
+"2025-12"
+]
+},
+"17130": {
+"Shullsburg City of": [
+"1990-01",
+"1992-12"
+]
+},
+"17166": {
+"Sierra Pacific Power Co": [
+"1990-01",
+"2025-12"
+],
+"Sierra Pacific Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"17186": {
+"Silver Springs Village of": [
+"1990-01",
+"1992-12"
+]
+},
+"17252": {
+"Singing River Elec Cooperative": [
+"2018-01",
+"2025-12"
+],
+"Singing River Elec Power Assn": [
+"1990-01",
+"2002-11"
+],
+"Singing River Elec Pwr Assn": [
+"2002-12",
+"2017-12"
+]
+},
+"17267": {
+"Sioux Valley Empire E A Inc": [
+"1990-01",
+"1997-12"
+],
+"Sioux Valley Empire E A, Inc": [
+"1998-01",
+"2001-12"
+],
+"Sioux Valley Energy": [
+"2002-12",
+"2007-12"
+],
+"Sioux Valley SW Elec Coop": [
+"2002-01",
+"2025-12"
+]
+},
+"17271": {
+"Sitka City of & Borough of": [
+"1990-01",
+"1992-12"
+]
+},
+"1738": {
+"Bonneville Power Admin": [
+"1990-01",
+"2011-12"
+],
+"Bonneville Power Administration": [
+"2012-01",
+"2025-12"
+]
+},
+"17470": {
+"PUD 1 of Snohomish County": [
+"2013-01",
+"2022-12"
+],
+"PUD No 1 of Snohomish County": [
+"1990-01",
+"2024-12"
+],
+"PUD No 1 of Snohomish County - (WA)": [
+"2025-01",
+"2025-12"
+],
+"Snohomish County PUD No 1": [
+"2002-01",
+"2012-12"
+]
+},
+"1753": {
+"Biwabik City of": [
+"1990-01",
+"1992-12"
+]
+},
+"17535": {
+"South Beloit Wtr Gas & Elec": [
+"2002-01",
+"2007-02"
+],
+"South Beloit Wtr, Gas & Elec": [
+"2001-01",
+"2001-12"
+]
+},
+"17539": {
+"Dominion Energy South Carolina, Inc": [
+"2018-01",
+"2025-12"
+],
+"South Carolina Electric & Gas": [
+"1998-01",
+"2000-12"
+],
+"South Carolina Electric&Gas Co": [
+"1990-01",
+"2012-12"
+],
+"South Carolina Electric&Gas Company": [
+"2013-01",
+"2017-12"
+]
+},
+"17543": {
+"South Carolina Pub Serv Auth": [
+"1990-01",
+"2011-12"
+],
+"South Carolina Public Service Authority": [
+"2012-01",
+"2025-12"
+]
+},
+"17561": {
+"South Plains Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"17564": {
+"South Kentucky RECC": [
+"1998-01",
+"2000-12"
+],
+"South Kentucky Rural  Electric Coop": [
+"2003-06",
+"2004-12"
+],
+"South Kentucky Rural  Electric Coop C": [
+"2005-01",
+"2006-12"
+],
+"South Kentucky Rural  Electric Coop Corp": [
+"2007-01",
+"2009-12"
+],
+"South Kentucky Rural E C C": [
+"1990-01",
+"2025-12"
+]
+},
+"17571": {
+"South River Borough of": [
+"1990-01",
+"1992-12"
+]
+},
+"17585": {
+"Southeastern IL Elec Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"17589": {
+"South Whitley Town of": [
+"1990-01",
+"1992-12"
+]
+},
+"176": {
+"Ajo Improvement Co": [
+"2001-01",
+"2025-12"
+]
+},
+"17609": {
+"Southern Cal. Edison Company": [
+"2001-01",
+"2001-12"
+],
+"Southern California Edison Co": [
+"1990-01",
+"2025-12"
+],
+"Southern California Edison Co.": [
+"1998-01",
+"2000-12"
+]
+},
+"17612": {
+"Bear Valley Electric Service": [
+"2009-01",
+"2025-12"
+],
+"Beaver Valley Electric Service": [
+"2008-05",
+"2008-12"
+],
+"Golden State Water Co": [
+"2007-04",
+"2007-04"
+],
+"Golden State Water Company": [
+"2007-08",
+"2008-04"
+],
+"Southern California Water Co": [
+"2002-01",
+"2007-07"
+],
+"Southern California Water Co.": [
+"2001-01",
+"2001-12"
+]
+},
+"17633": {
+"Southern Indiana Gas & Elec Co": [
+"1990-01",
+"2025-12"
+]
+},
+"17637": {
+"Southern Maryland El Coop Inc": [
+"1990-01",
+"1992-12"
+],
+"Southern Maryland Elec Coop Inc": [
+"2016-01",
+"2025-12"
+]
+},
+"1764": {
+"Black Diamond Power Co": [
+"2001-01",
+"2025-12"
+]
+},
+"17642": {
+"Southern Nebraska Rural P P D": [
+"1990-01",
+"2000-12"
+],
+"Southern Public Power Dist": [
+"2001-01",
+"2001-12"
+],
+"Southern Public Power District": [
+"2002-01",
+"2025-12"
+]
+},
+"17647": {
+"Southern Pine EPA": [
+"1998-01",
+"2000-12"
+],
+"Southern Pine Elec Power Assn": [
+"1990-01",
+"2018-12"
+],
+"Southern Pine Electric Cooperative": [
+"2019-01",
+"2025-12"
+]
+},
+"17683": {
+"Southwest Mississippi E P A": [
+"1990-01",
+"1990-12"
+]
+},
+"1769": {
+"Black Hills Electric Coop, Inc": [
+"2008-01",
+"2025-12"
+]
+},
+"17694": {
+"Southwest Tennessee E M C": [
+"1991-01",
+"2025-12"
+]
+},
+"17698": {
+"Southwestern Electric Power C": [
+"2001-01",
+"2001-12"
+],
+"Southwestern Electric Power Co": [
+"1990-01",
+"2025-12"
+]
+},
+"17699": {
+"TXU SESCO Co": [
+"2001-01",
+"2001-12"
+]
+},
+"17715": {
+"Southwestern Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"17718": {
+"Southwestern Public Service Co": [
+"1990-01",
+"2025-12"
+],
+"Southwestern public Service Co": [
+"2001-01",
+"2001-12"
+]
+},
+"17740": {
+"Sparta City of": [
+"1991-01",
+"1992-12"
+]
+},
+"1780": {
+"Black Warrior Elec Member Corp": [
+"1990-01",
+"1990-12"
+]
+},
+"17823": {
+"Spring Grove City of": [
+"1990-01",
+"1992-12"
+]
+},
+"17828": {
+"Springfield City of": [
+"1990-01",
+"1992-12"
+]
+},
+"17832": {
+"Snapping Shoals El Member Corp": [
+"1991-01",
+"1992-12"
+]
+},
+"17833": {
+"City Utilities of Springfield": [
+"2003-01",
+"2010-12"
+],
+"City Utilities of Springfield - (MO)": [
+"2011-01",
+"2025-12"
+],
+"City of Springfield": [
+"1998-01",
+"2001-12"
+],
+"Springfield City of": [
+"1990-01",
+"2002-12"
+]
+},
+"17845": {
+"City of Springville": [
+"2003-01",
+"2012-12"
+],
+"City of Springville - (UT)": [
+"2013-01",
+"2025-12"
+]
+},
+"17874": {
+"City of St George": [
+"2003-01",
+"2024-12"
+],
+"City of St George - (UT)": [
+"2025-01",
+"2025-12"
+],
+"St George City of": [
+"1990-01",
+"1992-12"
+]
+},
+"17881": {
+"St Joseph Light & Power Co": [
+"1990-01",
+"2001-02"
+],
+"St. Joseph Light & Power Co.": [
+"1998-01",
+"2000-12"
+]
+},
+"17882": {
+"Smoky Valley El Coop Assn Inc": [
+"1990-01",
+"1990-12"
+]
+},
+"17896": {
+"Shasta Dam Area Pub Util Dist": [
+"1990-01",
+"1992-12"
+]
+},
+"1796": {
+"Blackstone Valley Electric": [
+"1998-01",
+"2000-04"
+],
+"Blackstone Valley Electric Co": [
+"1990-01",
+"1997-12"
+]
+},
+"18006": {
+"Starkville City of": [
+"1991-01",
+"1992-12"
+]
+},
+"1818": {
+"Blaine City of": [
+"1990-01",
+"1992-12"
+]
+},
+"182": {
+"Akron City of": [
+"1990-01",
+"1992-12"
+]
+},
+"18206": {
+"Strawberry Electric Serv Dist": [
+"1990-01",
+"2025-12"
+]
+},
+"18260": {
+"Surprise Valley Electrificatio": [
+"2010-01",
+"2012-12"
+],
+"Surprise Valley Electrification": [
+"2013-01",
+"2025-12"
+],
+"Surprise Valley Electrification Corp": [
+"2003-01",
+"2004-12"
+],
+"Surprise Valley Electrification Corp.": [
+"2005-01",
+"2009-12"
+]
+},
+"18284": {
+"Summerhill Borough of": [
+"1990-01",
+"1992-12"
+]
+},
+"18336": {
+"Superior Water and Light Co": [
+"2001-01",
+"2025-12"
+],
+"Superior Water, Light and Power Co": [
+"2003-01",
+"2009-12"
+]
+},
+"18371": {
+"Swanton Village of": [
+"1990-01",
+"1992-12"
+]
+},
+"18429": {
+"City of Tacoma  - (WA)": [
+"2011-01",
+"2015-12"
+],
+"City of Tacoma - (WA)": [
+"2016-01",
+"2025-12"
+],
+"Tacoma City of": [
+"1990-01",
+"2010-12"
+],
+"Tacoma Dept of Public Utils": [
+"1998-01",
+"2001-12"
+],
+"Tacoma, City of": [
+"2004-03",
+"2009-12"
+]
+},
+"18443": {
+"Tapoco Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"18454": {
+"Tampa Electric Co": [
+"1990-01",
+"2025-12"
+],
+"Tampa Electric Company": [
+"1998-01",
+"2001-12"
+]
+},
+"18472": {
+"Tarrant City City of": [
+"1991-01",
+"1992-12"
+]
+},
+"18474": {
+"Tanana Power CO": [
+"2001-01",
+"2001-12"
+],
+"Tanana Power Co Inc": [
+"2002-01",
+"2004-12"
+]
+},
+"18521": {
+"Teller Power Co Inc": [
+"2001-01",
+"2002-03"
+]
+},
+"18546": {
+"Templeton City of": [
+"1990-01",
+"1992-12"
+]
+},
+"1857": {
+"Block Island Power Co": [
+"1990-01",
+"2018-12"
+],
+"Block Island Power Company": [
+"2001-01",
+"2001-12"
+],
+"Block Island Utility District": [
+"2019-01",
+"2025-12"
+]
+},
+"18642": {
+"TVA": [
+"1996-01",
+"1997-12"
+],
+"Tennessee Valley Authority": [
+"1990-01",
+"2025-12"
+]
+},
+"1889": {
+"Blue Ridge Elec Member Corp": [
+"1991-01",
+"1992-12"
+]
+},
+"1890": {
+"Blue Ridge Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"18901": {
+"Thurmont Municipal Light Co": [
+"1990-01",
+"1992-12"
+]
+},
+"1896": {
+"Bluffton City of": [
+"1990-01",
+"1992-12"
+]
+},
+"18997": {
+"The Toledo Edison Co": [
+"2002-01",
+"2025-12"
+],
+"Toledo Edison Co": [
+"1990-01",
+"1992-12"
+],
+"Toledo Edison Company": [
+"2001-01",
+"2001-12"
+]
+},
+"19007": {
+"Tombigbee Electric Power Assn": [
+"1991-01",
+"1992-12"
+]
+},
+"19027": {
+"Tombigbee Electric Coop Inc": [
+"1991-01",
+"1992-12"
+]
+},
+"19156": {
+"Powder River Energy Corp": [
+"2001-01",
+"2025-12"
+],
+"Powder River Energy Corporation": [
+"2002-11",
+"2009-12"
+],
+"Powder River Enerygy Corp": [
+"1998-01",
+"2000-12"
+],
+"Tri-County Electric Assn Inc": [
+"1990-01",
+"1997-12"
+]
+},
+"19162": {
+"Tri-County Elec Member Corp": [
+"1991-01",
+"1992-12"
+]
+},
+"19189": {
+"Trico Electric Cooperative Inc": [
+"2003-01",
+"2025-12"
+]
+},
+"19273": {
+"City of Tupelo - (MS)": [
+"2011-01",
+"2025-12"
+],
+"City of Tupelo Water & Light": [
+"1998-01",
+"2000-12"
+],
+"City of Tupelo Water & Light D": [
+"1994-01",
+"1997-12"
+],
+"City of Tupelo Water and Light": [
+"2001-01",
+"2001-12"
+],
+"Tupelo City of": [
+"2002-01",
+"2010-12"
+]
+},
+"19277": {
+"TDX North Slope Generating Co": [
+"2003-01",
+"2025-12"
+]
+},
+"19281": {
+"Turlock Irrigation District": [
+"2003-01",
+"2025-12"
+]
+},
+"19293": {
+"Southeastern El. Coop": [
+"2001-01",
+"2001-12"
+],
+"Southeastern Electric Coop Inc": [
+"2002-01",
+"2011-12"
+],
+"Southeastern Electric Coop Inc - (SD)": [
+"2012-01",
+"2025-12"
+],
+"Turner-Hutchinsin El Coop, Inc": [
+"1993-01",
+"1997-12"
+],
+"Turner-Hutchinson El Coop,Inc": [
+"1998-01",
+"2000-12"
+]
+},
+"19390": {
+"UGI Corp": [
+"1990-01",
+"1992-12"
+],
+"UGI Corporation": [
+"2001-01",
+"2001-12"
+],
+"UGI Utilities, Inc": [
+"2002-01",
+"2025-12"
+]
+},
+"19430": {
+"Union City City of": [
+"1991-01",
+"1992-12"
+]
+},
+"19432": {
+"Union City City of": [
+"1990-01",
+"1992-12"
+]
+},
+"19436": {
+"Union Electric Co": [
+"1990-01",
+"2010-12"
+],
+"Union Electric Co - (MO)": [
+"2011-01",
+"2025-12"
+],
+"Union Electric Company": [
+"1994-01",
+"2001-12"
+]
+},
+"19446": {
+"Duke Energy Kentucky": [
+"2009-04",
+"2025-12"
+],
+"Duke Energy Kentucky, Inc.": [
+"2008-04",
+"2008-12"
+],
+"Union Light Heat & Power Co": [
+"1990-01",
+"1997-12"
+],
+"Union Light, Heat & Power Co": [
+"1998-01",
+"2009-03"
+]
+},
+"19454": {
+"Unalaska City of": [
+"1990-01",
+"1992-12"
+]
+},
+"19461": {
+"Union Power Co": [
+"2001-01",
+"2010-09"
+]
+},
+"19497": {
+"The United Illuminating Co.": [
+"1998-01",
+"2000-12"
+],
+"United Illuminating Co": [
+"1990-01",
+"2025-12"
+],
+"United Illuminating Company": [
+"2001-01",
+"2001-12"
+]
+},
+"19498": {
+"United Light and Power Co": [
+"2001-01",
+"2007-06"
+]
+},
+"19499": {
+"United Power, Inc": [
+"2003-01",
+"2025-12"
+]
+},
+"195": {
+"Alabama Power Co": [
+"1990-01",
+"2025-12"
+],
+"Alabama Power Company": [
+"1998-01",
+"2001-11"
+]
+},
+"19545": {
+"Black Hills Corp": [
+"1990-01",
+"1997-12"
+],
+"Black Hills Corporation": [
+"1998-01",
+"2001-12"
+],
+"Black Hills Power Inc": [
+"2002-01",
+"2014-12"
+],
+"Black Hills Power, Inc.": [
+"2021-01",
+"2025-12"
+],
+"Black Hills Power, Inc. d/b/a": [
+"2015-01",
+"2020-12"
+]
+},
+"19547": {
+"Hawaiian Electric Co Inc": [
+"1990-01",
+"2025-12"
+],
+"Hawaiian Electric Company, Inc": [
+"1998-01",
+"2001-12"
+]
+},
+"19558": {
+"Homer Electric Assn Inc": [
+"1990-01",
+"2025-12"
+],
+"Homer Electric Assn, Inc": [
+"1998-01",
+"2001-12"
+]
+},
+"19574": {
+"Upper Cumberland E M C": [
+"1991-01",
+"2025-12"
+]
+},
+"19578": {
+"Upper Peninsula Power Co": [
+"1990-01",
+"2014-12"
+],
+"Upper Peninsula Power Company": [
+"2001-01",
+"2025-12"
+]
+},
+"19603": {
+"Mission Valley Power": [
+"1998-01",
+"2001-12"
+],
+"U S Bureau of Indian Affairs": [
+"1990-01",
+"1997-12"
+],
+"USBIA-Mission Valley Power": [
+"2002-01",
+"2025-12"
+]
+},
+"19719": {
+"Yale City of": [
+"1990-01",
+"1992-12"
+]
+},
+"19728": {
+"UNS Electric, Inc": [
+"2003-08",
+"2025-12"
+]
+},
+"19785": {
+"Verdigris Valley Elec Coop Inc": [
+"1998-01",
+"2025-12"
+],
+"Verdigris Valley Electric Coop": [
+"1993-01",
+"1997-12"
+]
+},
+"19790": {
+"Verendrye Electric Coop Inc": [
+"1990-01",
+"2025-12"
+],
+"Verendrye Electric Coop, Inc": [
+"1998-01",
+"2001-12"
+]
+},
+"19791": {
+"Vermont Electric Cooperative, Inc": [
+"2010-01",
+"2025-12"
+],
+"Vermont Electric Cooperative, Inc.": [
+"2004-01",
+"2009-12"
+]
+},
+"19794": {
+"Omya Inc": [
+"2001-01",
+"2011-08"
+]
+},
+"19798": {
+"Vernon City of": [
+"1990-01",
+"1992-12"
+]
+},
+"19840": {
+"Valley Electric Assn, Inc": [
+"2003-01",
+"2025-12"
+]
+},
+"19856": {
+"Vineland City of": [
+"1990-01",
+"1992-12"
+]
+},
+"19876": {
+"Virginia Electric & Power Co": [
+"1990-01",
+"2025-12"
+]
+},
+"19882": {
+"Virginia Tech Electric Service": [
+"2005-01",
+"2025-12"
+]
+},
+"19896": {
+"City of Volga": [
+"2008-01",
+"2012-12"
+],
+"City of Volga - (SD)": [
+"2013-01",
+"2025-12"
+]
+},
+"19898": {
+"Volunteer Electric Coop": [
+"1991-01",
+"2025-12"
+],
+"Volunteer Electric Cooperative": [
+"1998-01",
+"2001-12"
+]
+},
+"19947": {
+"Wadena City of": [
+"1990-01",
+"1992-12"
+]
+},
+"19975": {
+"Wakefield City of": [
+"1990-01",
+"1992-12"
+]
+},
+"1998": {
+"Boston Edison Co": [
+"1990-01",
+"2006-12"
+],
+"Boston Edison Company": [
+"1998-01",
+"2001-12"
+]
+},
+"20038": {
+"Town of Wallingford": [
+"1998-01",
+"2001-12"
+],
+"Town of Wallingford - (CT)": [
+"2011-01",
+"2025-12"
+],
+"Wallingford Town of": [
+"1990-01",
+"2010-12"
+]
+},
+"20065": {
+"Walton Electric Member Corp": [
+"1990-01",
+"1992-12"
+]
+},
+"20078": {
+"War Light and Power Co": [
+"2001-01",
+"2007-06"
+]
+},
+"2008": {
+"Boulder City City of": [
+"2002-01",
+"2002-10"
+],
+"City of Boulder": [
+"1998-01",
+"2009-06"
+],
+"City of Boulder City": [
+"1993-01",
+"2011-12"
+],
+"City of Boulder City - (NV)": [
+"2012-01",
+"2025-12"
+]
+},
+"2010": {
+"Bountiful City City of": [
+"2002-01",
+"2005-01"
+],
+"Bountiful City Light & Power": [
+"1994-01",
+"2001-12"
+],
+"City of Bountiful": [
+"2005-02",
+"2024-12"
+],
+"City of Bountiful - (UT)": [
+"2025-01",
+"2025-12"
+],
+"untiful City Light & Power": [
+"1998-01",
+"2000-12"
+]
+},
+"20130": {
+"Warren Rural Elec Coop Corp": [
+"1993-01",
+"2025-12"
+]
+},
+"20169": {
+"Avista Corp": [
+"2002-01",
+"2025-12"
+],
+"Avista Corporation": [
+"2001-01",
+"2001-12"
+],
+"Washington Water Power Co": [
+"1990-01",
+"1997-12"
+],
+"Washington Water Power Company": [
+"1998-01",
+"2000-12"
+]
+},
+"20187": {
+"Municipal Utilities": [
+"1998-01",
+"2000-12"
+],
+"Watertown Municipal Utilities": [
+"2001-01",
+"2025-12"
+],
+"Watertown Municipal Utils Dept": [
+"1993-01",
+"1997-12"
+]
+},
+"20226": {
+"Waynetown City of": [
+"1990-01",
+"1992-12"
+]
+},
+"20310": {
+"Town of Wellesley - (MA)": [
+"2020-01",
+"2025-12"
+]
+},
+"20332": {
+"Wells Rural Electric Co": [
+"1990-01",
+"2025-12"
+],
+"Wells Rural Electric Company": [
+"1998-01",
+"2001-12"
+]
+},
+"20334": {
+"Wellsborough Electric Co": [
+"2001-01",
+"2025-12"
+]
+},
+"20387": {
+"West Penn Power Co": [
+"1990-01",
+"2004-08"
+],
+"West Penn Power Company": [
+"1998-01",
+"2024-01"
+]
+},
+"20393": {
+"West Point City of": [
+"1990-01",
+"1990-12"
+]
+},
+"20395": {
+"West Plains Electric Coop Inc": [
+"1990-01",
+"2008-02"
+],
+"West Plains Electric Coop, Inc": [
+"1998-01",
+"2001-12"
+]
+},
+"20401": {
+"West River Electric Assn Inc": [
+"2002-01",
+"2025-12"
+],
+"West River Electric Assn, Inc": [
+"1993-01",
+"2001-12"
+]
+},
+"20404": {
+"West Texas Utilities Co": [
+"2001-01",
+"2002-12"
+]
+},
+"20413": {
+"Mountrail-Williams Elec Coop": [
+"2003-01",
+"2025-12"
+]
+},
+"20455": {
+"Western Massachusetts Elec Co": [
+"1990-01",
+"2012-12"
+],
+"Western Massachusetts Electric Company": [
+"2013-01",
+"2017-12"
+],
+"Western Massechusetts Elec. Co": [
+"1998-01",
+"2000-12"
+]
+},
+"20510": {
+"Wheatland Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"20521": {
+"Appalachian Power Company": [
+"1998-01",
+"2000-12"
+],
+"Wheeling Power Co": [
+"2002-01",
+"2025-12"
+],
+"Wheeling Power Company": [
+"1995-01",
+"2001-12"
+]
+},
+"2056": {
+"Bowling Green City of": [
+"1991-01",
+"1992-12"
+]
+},
+"20785": {
+"Wilson City of": [
+"1991-01",
+"1992-12"
+]
+},
+"20813": {
+"Winfield City of": [
+"1990-01",
+"1992-12"
+]
+},
+"20826": {
+"Winnsboro Town of": [
+"1990-01",
+"1992-12"
+]
+},
+"20847": {
+"Wisconsin Electric Power Co": [
+"1990-01",
+"2025-12"
+]
+},
+"20856": {
+"Wisconsin Power & Light Co": [
+"1990-01",
+"2025-12"
+]
+},
+"20860": {
+"Wisconsin Public Service Corp": [
+"1990-01",
+"2025-12"
+]
+},
+"20980": {
+"Woodsville City of": [
+"1990-01",
+"1992-12"
+]
+},
+"20996": {
+"Wright-Hennepin Coop Elec Assn": [
+"1993-01",
+"2025-12"
+]
+},
+"20997": {
+"Yellowstone Valley Elec Co-op": [
+"2001-01",
+"2025-12"
+],
+"Yellowstone Valley Elec Co-op Inc.": [
+"2003-07",
+"2009-12"
+],
+"Yellowstone Vlly Elec Coop Inc": [
+"1993-01",
+"2000-12"
+]
+},
+"21095": {
+"Public Serv Comm of Yazoo City": [
+"1990-01",
+"1992-12"
+]
+},
+"21244": {
+"Southside Electric Coop Inc": [
+"1991-01",
+"1992-12"
+]
+},
+"213": {
+"Alaska Electric Light & Power Co.": [
+"2021-01",
+"2025-12"
+],
+"Alaska Electric Light&Power Co": [
+"1990-01",
+"2020-12"
+]
+},
+"21417": {
+"Tongass Power & Light Co": [
+"1990-01",
+"1992-12"
+]
+},
+"21538": {
+"MoHave Electric Coop, Inc": [
+"2003-01",
+"2003-10"
+],
+"Mohave Electric Cooperative, I": [
+"2010-01",
+"2021-12"
+],
+"Mohave Electric Cooperative, Inc": [
+"2003-11",
+"2009-12"
+],
+"Mohave Electric Cooperative, Inc.": [
+"2022-01",
+"2025-12"
+]
+},
+"21567": {
+"Washington-St Tammany E C Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"21664": {
+"Willwood Light & Power Co": [
+"1990-01",
+"1992-12"
+]
+},
+"219": {
+"Alaska Power Co": [
+"2001-01",
+"2009-12"
+],
+"Alaska Power and Telephone Co": [
+"2010-01",
+"2025-12"
+]
+},
+"22053": {
+"Kentucky Power Co": [
+"1990-01",
+"2025-12"
+],
+"Kentucky Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"221": {
+"Alaska Village Elec Coop Inc": [
+"1990-01",
+"1992-12"
+],
+"Alaska Village Elec Coop, Inc": [
+"2014-05",
+"2025-12"
+]
+},
+"2247": {
+"Bristol City of": [
+"1991-01",
+"2010-12"
+],
+"City of Bristol": [
+"1998-01",
+"2001-12"
+],
+"City of Bristol - (TN)": [
+"2011-01",
+"2025-12"
+]
+},
+"22500": {
+"Evergy Kansas Central, Inc": [
+"2019-01",
+"2025-12"
+],
+"Westar Energy Inc": [
+"2002-11",
+"2018-12"
+],
+"Western Resources Inc": [
+"1992-04",
+"2002-10"
+],
+"Western Resources, Inc": [
+"2001-01",
+"2001-12"
+],
+"Western Resources, Inc.": [
+"1998-01",
+"2000-12"
+]
+},
+"22690": {
+"Roosevelt County Elec Coop Inc": [
+"2003-01",
+"2025-12"
+]
+},
+"22814": {
+"Raft River Rural Elec Coop Inc": [
+"1990-01",
+"1992-12"
+],
+"Raft Rural Elec Coop Inc": [
+"2003-01",
+"2025-12"
+]
+},
+"2285": {
+"Brookings City of": [
+"1990-01",
+"2010-12"
+],
+"City of Brookings": [
+"1998-01",
+"2001-12"
+],
+"City of Brookings - (SD)": [
+"2011-01",
+"2025-12"
+]
+},
+"230": {
+"Albany Water Gas & Light Comm": [
+"1990-01",
+"1992-12"
+]
+},
+"23326": {
+"Sierra Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"23333": {
+"Midwest Power System Inc": [
+"1992-08",
+"1995-06"
+]
+},
+"2403": {
+"James River-NH Electric Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"24211": {
+"Tucson Electric Power Co": [
+"1990-01",
+"2025-12"
+],
+"Tucson Electric Power Company": [
+"1998-01",
+"2000-12"
+],
+"Tucson Electric power Company": [
+"2001-01",
+"2001-12"
+]
+},
+"24590": {
+"Unitil Energy Systems": [
+"2002-12",
+"2025-12"
+]
+},
+"24889": {
+"Brunswick Elect. Membership C": [
+"2001-01",
+"2001-12"
+],
+"Brunswick Electric Member Corp": [
+"1990-01",
+"2025-12"
+]
+},
+"24949": {
+"4334.0": [
+"2011-08",
+"2011-08"
+],
+"Cass County Elec Coop Inc": [
+"2002-01",
+"2025-12"
+],
+"Cass County Elec.Coop. Inc.": [
+"2001-01",
+"2001-12"
+],
+"Cass County Electric Coop Inc": [
+"1990-01",
+"1997-12"
+],
+"Cass County Electric Coop, Inc": [
+"1998-01",
+"2000-12"
+],
+"Cass County Electric Coop., Inc.": [
+"2014-04",
+"2014-04"
+]
+},
+"25177": {
+"Dakota Electric Assn": [
+"1990-01",
+"1997-12"
+],
+"Dakota Electric Association": [
+"1998-01",
+"2025-12"
+]
+},
+"2534": {
+"Burke City of": [
+"1990-01",
+"1992-12"
+]
+},
+"2548": {
+"Burlington City of": [
+"1990-01",
+"2002-12"
+],
+"City of Burlington Electric - (VT)": [
+"2011-01",
+"2025-12"
+],
+"City of Burlington-Electric": [
+"1998-01",
+"2010-12"
+]
+},
+"25866": {
+"Ak-Chin Electric Utility Auth": [
+"2005-01",
+"2011-12"
+],
+"Ak-Chin Electric Utility Authority": [
+"2005-09",
+"2025-12"
+]
+},
+"261": {
+"AGC Division of APG Inc": [
+"2002-01",
+"2020-12"
+],
+"AGC Division of APGI Inc": [
+"2021-01",
+"2025-12"
+],
+"Alcoa Generating Corp": [
+"2001-01",
+"2001-12"
+]
+},
+"26510": {
+"Granite State Electric Co": [
+"1990-01",
+"2012-12"
+],
+"Granite State Electric Company": [
+"1998-01",
+"2001-12"
+],
+"Liberty Utilities (Granite State Electri": [
+"2013-01",
+"2015-12"
+],
+"Liberty Utilities (Granite State Electric) Corp": [
+"2016-01",
+"2025-12"
+]
+},
+"26754": {
+"Paxson Inn and Lodge": [
+"2001-01",
+"2004-12"
+]
+},
+"26765": {
+"Pella Coop Elec Assn": [
+"1990-01",
+"1992-12"
+]
+},
+"27000": {
+"WAPA - Rocky Mountain Region": [
+"2011-01",
+"2011-12"
+],
+"WAPA-- Western Area Power Administration": [
+"2012-01",
+"2025-12"
+],
+"Western Area Power Admin": [
+"1990-01",
+"1992-12"
+],
+"Western Area Power Admn.": [
+"2005-01",
+"2010-12"
+]
+},
+"27058": {
+"High West Energy, Inc": [
+"2008-01",
+"2025-12"
+]
+},
+"27222": {
+"Ripley City of": [
+"1991-01",
+"1992-12"
+]
+},
+"27422": {
+"Todd-Wadena Electric Coop": [
+"1990-01",
+"1992-12"
+]
+},
+"276": {
+"Alcorn County Elec Power Assn": [
+"1991-01",
+"1992-12"
+]
+},
+"27721": {
+"Yadkin Inc": [
+"1991-01",
+"1992-12"
+]
+},
+"28541": {
+"Clatskanie Peoples Util Dist": [
+"2008-01",
+"2025-12"
+]
+},
+"2886": {
+"Cambridge Electric Light Co": [
+"1990-01",
+"2006-12"
+]
+},
+"28978": {
+"San Marcos City of": [
+"1990-01",
+"1992-12"
+]
+},
+"29297": {
+"Pelican Utility District": [
+"2003-03",
+"2004-12"
+],
+"Pelican Utility Inc": [
+"2001-01",
+"2003-02"
+]
+},
+"2961": {
+"Caney Valley El Coop Assn Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"2998": {
+"Carbon Power & Light Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"3046": {
+"Carolina Power & Light Co": [
+"1990-01",
+"2002-12"
+],
+"Carolina Power & Light Company": [
+"1998-01",
+"2001-12"
+],
+"Duke Energy Progress - (NC)": [
+"2013-01",
+"2025-12"
+],
+"Progress Energy Carolinas": [
+"2003-01",
+"2009-12"
+],
+"Progress Energy Carolinas Inc": [
+"2010-01",
+"2012-12"
+]
+},
+"3093": {
+"Carroll Electric Coop Corp": [
+"1993-01",
+"2010-12"
+],
+"Carroll Electric Coop Corp - (AR)": [
+"2011-01",
+"2025-12"
+]
+},
+"3109": {
+"Cap Rock Energy Corporation": [
+"2006-01",
+"2010-07"
+]
+},
+"3136": {
+"Cascade Locks City of": [
+"1990-01",
+"1992-12"
+]
+},
+"3203": {
+"Cedar Falls City of": [
+"1990-01",
+"1992-12"
+]
+},
+"3222": {
+"Central Alabama Electric Coop": [
+"1990-01",
+"1990-12"
+]
+},
+"3236": {
+"Central Electric Coop, Inc": [
+"2003-01",
+"2010-12"
+],
+"Central Electric Coop, Inc - (SD)": [
+"2011-01",
+"2025-12"
+]
+},
+"3249": {
+"Central Hudson Gas & Elec Corp": [
+"1990-01",
+"2025-12"
+]
+},
+"3252": {
+"Central ILL Light Co d/b/a AmerenCIL": [
+"2003-03",
+"2003-05"
+],
+"Central Illinois Light Co": [
+"2002-01",
+"2010-09"
+],
+"Central Illinois Light Company": [
+"1993-01",
+"2001-12"
+]
+},
+"3253": {
+"Central Ilinois Pub Serv Co": [
+"2001-01",
+"2001-12"
+],
+"Central Illinois Pub Serv Co": [
+"1993-01",
+"2010-09"
+]
+},
+"3265": {
+"CLECO Utility Group": [
+"2001-01",
+"2001-12"
+],
+"Central Louisiana Elec Co Inc": [
+"1990-01",
+"1997-12"
+],
+"Central Louisiana Elec Co, Inc": [
+"1998-01",
+"2000-12"
+],
+"Cleco Power LLC": [
+"2002-01",
+"2025-12"
+]
+},
+"3266": {
+"Central Maine Power": [
+"2001-01",
+"2001-12"
+],
+"Central Maine Power Co": [
+"1990-01",
+"2025-12"
+],
+"Central Maine Power Company": [
+"1998-01",
+"2000-06"
+]
+},
+"3278": {
+"Central Power & Light Co": [
+"1990-01",
+"2002-12"
+],
+"Central Power & Light Company": [
+"1998-01",
+"2001-12"
+]
+},
+"3285": {
+"Centel Corp": [
+"1990-01",
+"1992-12"
+]
+},
+"3287": {
+"Central Valley Elec Coop, Inc": [
+"2003-01",
+"2025-12"
+]
+},
+"329": {
+"Allamakee-Clayton El Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"3291": {
+"Central Virginia Electric Coop": [
+"1991-01",
+"1992-12"
+]
+},
+"3292": {
+"Central Vermont Pub Serv Corp": [
+"1990-01",
+"2012-09"
+]
+},
+"3315": {
+"Charles Mix Electric Assn Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"3408": {
+"Chattanooga City of": [
+"1991-01",
+"2010-12"
+],
+"City of Chattanooga - (TN)": [
+"2011-01",
+"2025-12"
+],
+"Elec Pwr Brd of Chattanooga": [
+"1998-01",
+"2001-12"
+]
+},
+"3413": {
+"PUD No 1 of Chelan County": [
+"1990-01",
+"1992-12"
+]
+},
+"3447": {
+"Chester Town of": [
+"1990-01",
+"1992-12"
+]
+},
+"3461": {
+"Cheyenne Light Fuel & Power": [
+"2021-01",
+"2025-12"
+],
+"Cheyenne Light Fuel & Power Co": [
+"1990-01",
+"2014-12"
+],
+"Cheyenne Light Fuel & Power d/b/a Black": [
+"2015-01",
+"2015-12"
+],
+"Cheyenne Light Fuel & Power d/b/a Black Hills Energy": [
+"2016-01",
+"2020-12"
+]
+},
+"3465": {
+"Chitina Electric Corp": [
+"2001-01",
+"2001-12"
+],
+"Chitina Electric Inc": [
+"2002-01",
+"2004-12"
+]
+},
+"3522": {
+"Chugach Electric Assn Inc": [
+"1990-01",
+"2025-12"
+],
+"Chugach Electric Assn, Inc.": [
+"1998-01",
+"2000-12"
+],
+"Chugach Electric Assn.Inc.": [
+"2001-01",
+"2001-12"
+]
+},
+"3542": {
+"Cincinnati Gas & Electric Co": [
+"1990-01",
+"2007-02"
+],
+"Duke Energy Ohio Inc": [
+"2007-03",
+"2025-12"
+]
+},
+"3597": {
+"Citizens Electric Co": [
+"2001-01",
+"2010-12"
+],
+"Citizens Electric Co - (PA)": [
+"2011-01",
+"2025-12"
+]
+},
+"3611": {
+"Citizens Utilities Co": [
+"1990-01",
+"1992-12"
+],
+"Citizens Utilities Company": [
+"1995-01",
+"2000-12"
+],
+"Citzens Communications Co": [
+"2001-01",
+"2004-03"
+]
+},
+"3633": {
+"McLaughlin City of": [
+"1990-01",
+"1992-12"
+]
+},
+"3634": {
+"Nixa City of": [
+"1990-01",
+"1992-12"
+]
+},
+"3660": {
+"Clark County of-PUD No 1": [
+"2002-01",
+"2009-12"
+],
+"Clark Public Utility Dist # 1": [
+"2001-01",
+"2001-12"
+],
+"Clark Public Utility District": [
+"1998-01",
+"2000-12"
+],
+"PUD No 1 of Clark County": [
+"1990-01",
+"2010-12"
+],
+"PUD No 1 of Clark County - (WA)": [
+"2011-01",
+"2025-12"
+]
+},
+"3704": {
+"City of Clarksville - (TN)": [
+"2011-01",
+"2025-12"
+],
+"Clarksville City of": [
+"1991-01",
+"2010-12"
+],
+"Clarksville Dept of Electric": [
+"1998-01",
+"2001-12"
+]
+},
+"3716": {
+"Clay-Union Electric Corp": [
+"1990-01",
+"1992-12"
+]
+},
+"3755": {
+"Cleveland Electric Illum Co": [
+"1990-01",
+"2025-12"
+]
+},
+"3757": {
+"Clay Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"3758": {
+"City of Cleveland": [
+"1998-01",
+"2001-12"
+],
+"City of Cleveland - (TN)": [
+"2011-01",
+"2025-12"
+],
+"Cleveland City of": [
+"1991-01",
+"2010-12"
+]
+},
+"3812": {
+"City of Clinton": [
+"1993-01",
+"1997-12"
+],
+"City of Clinton - (TN)": [
+"2011-01",
+"2025-12"
+],
+"Clinton City of": [
+"2002-01",
+"2010-12"
+],
+"Clinton Utilities Board": [
+"1998-01",
+"2001-12"
+]
+},
+"3828": {
+"Cloverland Electric Co-op": [
+"2010-01",
+"2025-12"
+]
+},
+"3841": {
+"": [
+"2014-04",
+"2014-04"
+],
+"Coast Electric Power Assn": [
+"1990-01",
+"2022-12"
+],
+"Coast Electric Power Assn - (MS)": [
+"2023-01",
+"2025-12"
+]
+},
+"3881": {
+"Cody City of": [
+"1990-01",
+"1992-12"
+]
+},
+"3892": {
+"City of Coffeyville": [
+"2008-01",
+"2011-12"
+],
+"City of Coffeyville - (KS)": [
+"2012-01",
+"2025-12"
+]
+},
+"39000": {
+"TVA Cooperative": [
+"1990-01",
+"1990-12"
+]
+},
+"39002": {
+"TVA Municipal": [
+"1990-01",
+"1990-12"
+]
+},
+"3916": {
+"Cobb Electric Membership Corp": [
+"1990-01",
+"2025-12"
+]
+},
+"392": {
+"Alpena Power Co": [
+"2001-01",
+"2025-12"
+]
+},
+"3939": {
+"College Park City of": [
+"1991-01",
+"1992-12"
+]
+},
+"3957": {
+"Collins City of": [
+"1990-01",
+"1990-12"
+]
+},
+"3989": {
+"City of Colorado Springs - (CO)": [
+"2011-01",
+"2025-12"
+],
+"Colorado Springs City of": [
+"1990-01",
+"2010-12"
+],
+"Colorado Springs Utilities": [
+"1998-01",
+"2001-12"
+]
+},
+"40036": {
+"Westfield Electric Co": [
+"2002-01",
+"2003-03"
+],
+"Westfield Electric Company": [
+"2003-04",
+"2025-12"
+],
+"Westfield Mill and El Lgt Co": [
+"2001-01",
+"2001-12"
+]
+},
+"40051": {
+"Texas-New Mexico Power Co": [
+"1990-01",
+"2006-12"
+],
+"Texas-New Mexico Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"40165": {
+"Dixie Escalante R E A Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"40228": {
+"Rappahannock Electric Coop": [
+"1990-01",
+"2025-12"
+]
+},
+"40437": {
+"Emerald People's Utility Dist": [
+"2009-01",
+"2025-12"
+]
+},
+"40606": {
+"City of Grand Island": [
+"2011-01",
+"2011-12"
+],
+"City of Grand Island - (NE)": [
+"2012-01",
+"2025-12"
+],
+"Grand Island City of": [
+"1990-01",
+"2010-12"
+],
+"Grand Island Electric Dept.": [
+"1998-01",
+"2001-12"
+]
+},
+"4062": {
+"Columbus Southern Power Co": [
+"1990-01",
+"2011-12"
+]
+},
+"4065": {
+"Columbus City of": [
+"1990-01",
+"1992-12"
+]
+},
+"4068": {
+"Columbus City of": [
+"1991-01",
+"1992-12"
+]
+},
+"407": {
+"Altamaha Electric Member Corp": [
+"1991-01",
+"1992-12"
+]
+},
+"4071": {
+"Columbus Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"4089": {
+"Commonwealth Electric Co": [
+"1990-01",
+"2006-12"
+],
+"Commonwealth Electric Company": [
+"1998-01",
+"2001-12"
+]
+},
+"409": {
+"Arctic Utilities Inc": [
+"2001-01",
+"2002-12"
+]
+},
+"4110": {
+"Commonwealth Edison": [
+"1998-01",
+"2000-12"
+],
+"Commonwealth Edison Co": [
+"1990-01",
+"2025-12"
+],
+"Commonwealth Edison Company": [
+"2001-01",
+"2001-12"
+]
+},
+"4148": {
+"Concord Electric Co": [
+"1990-01",
+"2002-11"
+],
+"Concord Electric Company": [
+"2001-01",
+"2001-12"
+]
+},
+"4176": {
+"Connecticut Light & Power Co": [
+"1990-01",
+"2025-12"
+],
+"The Connecticut Light & Power": [
+"1998-01",
+"2000-12"
+]
+},
+"4184": {
+"Connecticut Valley Elec Co": [
+"2001-01",
+"2003-12"
+]
+},
+"4191": {
+"Consolidated Edison Sol, Inc.": [
+"2001-01",
+"2001-01"
+]
+},
+"4226": {
+"Consolidated Edison Co-NY Inc": [
+"1990-01",
+"2025-12"
+],
+"Consolidated Edison Co-NY Inc.": [
+"2005-01",
+"2006-06"
+],
+"Consolidated Edison Co-NY, Inc": [
+"1998-01",
+"2001-12"
+]
+},
+"4247": {
+"Consolidated Water Power Co": [
+"1990-01",
+"2025-12"
+]
+},
+"4254": {
+"Consumers Energy Co": [
+"2002-01",
+"2022-12"
+],
+"Consumers Energy Co - (MI)": [
+"2023-01",
+"2025-12"
+],
+"Consumers Energy Company": [
+"1998-01",
+"2001-12"
+],
+"Consumers Power Co": [
+"1990-01",
+"1997-12"
+]
+},
+"4265": {
+"Continental Divide El Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"4280": {
+"Conway Corp": [
+"1990-01",
+"1992-12"
+]
+},
+"4294": {
+"Cookeville City of": [
+"1991-01",
+"1992-12"
+]
+},
+"4344": {
+"Cordell City of": [
+"1990-01",
+"1992-12"
+]
+},
+"4356": {
+"Colorado River Comm of Nevada": [
+"1998-01",
+"2021-12"
+],
+"Colorado River Commission": [
+"1993-01",
+"2001-12"
+]
+},
+"4373": {
+"Cornhusker Public Power Dist": [
+"1990-01",
+"2025-12"
+]
+},
+"4390": {
+"City of Corona": [
+"2003-02",
+"2011-12"
+],
+"City of Corona - (CA)": [
+"2012-01",
+"2025-12"
+]
+},
+"4401": {
+"Cotton Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"44372": {
+"Oncor Electric Delivery Company": [
+"2001-01",
+"2001-12"
+],
+"Texas Utilities Electric Co": [
+"1990-01",
+"1997-12"
+],
+"Texas Utilities Electric Co.": [
+"1998-01",
+"2000-12"
+]
+},
+"4442": {
+"PUD No 1 of Cowlitz Coumty": [
+"2008-01",
+"2009-12"
+],
+"PUD No 1 of Cowlitz County": [
+"1990-01",
+"2025-12"
+]
+},
+"4471": {
+"Craig-Botetourt Electric Coop": [
+"1991-01",
+"1992-12"
+]
+},
+"4512": {
+"Crescent Electric Member Corp": [
+"1991-01",
+"1992-12"
+]
+},
+"4577": {
+"Crow Wing Coop Power&Light Co": [
+"1990-01",
+"1992-12"
+]
+},
+"4619": {
+"Culpeper Town of": [
+"1990-01",
+"1990-12"
+]
+},
+"4622": {
+"Cumberland Valley Rural E C C": [
+"1990-01",
+"1990-12"
+]
+},
+"4624": {
+"Cumberland Elec Member Corp": [
+"1991-01",
+"2025-12"
+]
+},
+"4675": {
+"Cuivre River Elec Coop, Inc": [
+"1998-01",
+"2001-12"
+],
+"Cuivre River Electric Coop Inc": [
+"1990-01",
+"2025-12"
+]
+},
+"471": {
+"Amana Society Service Co": [
+"2001-01",
+"2025-12"
+]
+},
+"4715": {
+"Dahlberg Light  Co": [
+"2001-01",
+"2001-12"
+],
+"Dahlberg Light & Power Co": [
+"2002-01",
+"2025-12"
+]
+},
+"4717": {
+"Dakota Valley Elec Coop Inc": [
+"2003-01",
+"2025-12"
+]
+},
+"4744": {
+"Dalton City of": [
+"1990-01",
+"1992-12"
+]
+},
+"4794": {
+"Danville City of": [
+"1990-01",
+"1992-12"
+]
+},
+"4911": {
+"Dawson County Public Pwr Dist": [
+"1990-01",
+"2000-12"
+],
+"Dawson Power District": [
+"2001-01",
+"2025-12"
+]
+},
+"4922": {
+"Dayton Power & Light Co": [
+"1990-01",
+"2025-12"
+],
+"Dayton Power & Light Company": [
+"1994-01",
+"2001-12"
+]
+},
+"4958": {
+"Decatur City of": [
+"1991-01",
+"1997-12"
+],
+"Decatur Utilities": [
+"1998-01",
+"2025-12"
+]
+},
+"4959": {
+"Aniak Light  Co": [
+"2001-01",
+"2001-12"
+],
+"Aniak Light & Power Co Inc": [
+"2002-01",
+"2004-12"
+]
+},
+"49730": {
+"American PowerNet": [
+"2005-11",
+"2005-11"
+]
+},
+"49817": {
+"Dow Hydrocarbons and Resources Inc.": [
+"2005-11",
+"2005-11"
+]
+},
+"49848": {
+"Massachusetts Bay Trans Auth": [
+"2004-01",
+"2006-12"
+]
+},
+"49998": {
+"City of Berea Municipal Utilities": [
+"2005-02",
+"2009-12"
+],
+"City of Berea Municipal Utility": [
+"2010-01",
+"2025-12"
+]
+},
+"5027": {
+"Conectiv": [
+"2001-01",
+"2008-12"
+],
+"Delmarva Power": [
+"2009-01",
+"2025-12"
+],
+"Delmarva Power & Light Co": [
+"1990-01",
+"1997-12"
+],
+"Delmarva Power & Light Company": [
+"1998-01",
+"2000-12"
+]
+},
+"5036": {
+"Delta City of": [
+"1990-01",
+"1992-12"
+]
+},
+"5070": {
+"Delaware Electric Coop Inc": [
+"1990-01",
+"2003-12"
+],
+"Delaware Electric Coop, Inc": [
+"1998-01",
+"2001-12"
+],
+"Delaware Electric Cooperative": [
+"2004-01",
+"2025-12"
+]
+},
+"5107": {
+"City of Detroit": [
+"2004-01",
+"2012-12"
+],
+"City of Detroit - (MI)": [
+"2013-01",
+"2014-05"
+]
+},
+"5109": {
+"DTE Electric Company": [
+"2013-01",
+"2025-12"
+],
+"Detroit Edison Co": [
+"1990-01",
+"2011-12"
+],
+"Detroit Edison Company": [
+"1998-01",
+"2001-12"
+],
+"The DTE Electric Company": [
+"2012-01",
+"2012-12"
+]
+},
+"5175": {
+"Dixie Electric Power Assn": [
+"1990-01",
+"1992-12"
+]
+},
+"5188": {
+"": [
+"1999-01",
+"1999-12"
+],
+"Adquired from PacifiCorp": [
+"2000-02",
+"2000-12"
+],
+"Energy Northwest, Inc": [
+"2001-01",
+"2001-06"
+]
+},
+"5309": {
+"Dothan City of": [
+"1991-01",
+"1992-12"
+]
+},
+"5326": {
+"PUD No 1 of Douglas County": [
+"1990-01",
+"1992-12"
+]
+},
+"5335": {
+"City Of Dover": [
+"1998-01",
+"2001-12"
+],
+"City of Dover": [
+"1993-01",
+"1997-12"
+],
+"City of Dover - (DE)": [
+"2011-01",
+"2025-12"
+],
+"Dover City of": [
+"2002-01",
+"2010-12"
+]
+},
+"5354": {
+"Drain City of": [
+"1990-01",
+"1992-12"
+]
+},
+"5372": {
+"Drexel Town of": [
+"1990-01",
+"1990-12"
+]
+},
+"5399": {
+"Duck River Elec Member Corp": [
+"1991-01",
+"2025-12"
+]
+},
+"5416": {
+"Duke Energy Carolinas": [
+"2006-04",
+"2007-02"
+],
+"Duke Energy Carolinas, LLC": [
+"2007-01",
+"2025-12"
+],
+"Duke Power Co": [
+"1990-01",
+"2006-03"
+],
+"Duke Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"5479": {
+"Durant City of": [
+"1991-01",
+"1992-12"
+]
+},
+"5487": {
+"Duquesne Light Co": [
+"2008-01",
+"2025-12"
+],
+"Duquesne Light Company": [
+"1993-01",
+"2000-12"
+],
+"Dusquene Light Co": [
+"2002-01",
+"2007-12"
+],
+"Dusquene Light Company": [
+"2001-01",
+"2001-12"
+]
+},
+"54913": {
+"NSTAR Electric Company": [
+"2007-01",
+"2025-12"
+]
+},
+"5553": {
+"Egegik Light & Power Co": [
+"2002-01",
+"2004-09"
+],
+"Egegik Light & Power Company": [
+"2001-01",
+"2001-12"
+]
+},
+"5574": {
+"East Central Electric Assn": [
+"1990-01",
+"2001-12"
+],
+"East Central Energy": [
+"2002-01",
+"2025-12"
+]
+},
+"55936": {
+"Entergy Gulf States - LA LLC": [
+"2008-01",
+"2015-09"
+]
+},
+"55937": {
+"Entergy Texas Inc.": [
+"2008-01",
+"2025-12"
+]
+},
+"55959": {
+"Roughrider Electric Cooperativ": [
+"2010-01",
+"2025-12"
+],
+"Roughrider Electric Cooperative": [
+"2008-03",
+"2011-03"
+]
+},
+"5605": {
+"Eastern Iowa Light&Power Coop": [
+"1990-01",
+"1992-12"
+]
+},
+"5609": {
+"Eastern Maine Electric Coop": [
+"1990-01",
+"2025-12"
+]
+},
+"56146": {
+"Black Hills Colorado Electric, LLC": [
+"2018-01",
+"2025-12"
+],
+"Black Hills/Colorado Elec.Util": [
+"2010-01",
+"2017-12"
+],
+"Black Hills/Colorado Elec.Utility Co. LP": [
+"2008-07",
+"2009-12"
+]
+},
+"5659": {
+"Edison Sault Electric Co": [
+"2001-01",
+"2009-12"
+]
+},
+"56692": {
+"Marin Energy Authority": [
+"2010-12",
+"2010-12"
+]
+},
+"56697": {
+"Ameren Illinois Company": [
+"2010-10",
+"2025-12"
+]
+},
+"5701": {
+"El Paso Electric Co": [
+"1990-01",
+"2025-12"
+],
+"El Paso Electric Company": [
+"1998-01",
+"2001-12"
+]
+},
+"5731": {
+"Elk Power Co": [
+"1990-01",
+"2010-09"
+],
+"Elk Power Company": [
+"2001-01",
+"2001-12"
+]
+},
+"5748": {
+"Electric Energy Inc": [
+"1990-01",
+"2015-07"
+],
+"Electric Energy, Inc": [
+"2001-01",
+"2001-12"
+],
+"Electric Energy, Inc.": [
+"1998-01",
+"2000-12"
+]
+},
+"5763": {
+"Elizabethton City of": [
+"1991-01",
+"1992-12"
+]
+},
+"5779": {
+"Elkhorn Public Service Co": [
+"1990-01",
+"2007-06"
+],
+"Elkhorn Public Service Company": [
+"2001-01",
+"2001-12"
+]
+},
+"5794": {
+"Elkton Town of": [
+"1990-01",
+"1990-12"
+]
+},
+"5796": {
+"Ellaville City of": [
+"1991-01",
+"1992-12"
+]
+},
+"5802": {
+"Ellinwood City of": [
+"1990-01",
+"1992-12"
+]
+},
+"5860": {
+"Empire District Electric Co": [
+"1990-01",
+"2025-12"
+]
+},
+"5877": {
+"Energetix": [
+"2001-01",
+"2004-03"
+]
+},
+"58974": {
+"Clearview Electric Inc.": [
+"2020-01",
+"2020-04"
+]
+},
+"5915": {
+"Enosburg Falls Village of": [
+"1990-01",
+"1992-12"
+]
+},
+"599": {
+"Anchorage City of": [
+"1990-01",
+"1997-12"
+],
+"Anchorage Mun Light and Power": [
+"1998-01",
+"2001-11"
+],
+"Anchorage Municipal Light and Pow": [
+"2001-12",
+"2002-12"
+],
+"Anchorage Municipal Light and Power": [
+"2003-01",
+"2020-11"
+]
+},
+"6022": {
+"City of Eugene": [
+"1995-01",
+"1997-12"
+],
+"City of Eugene - (OR)": [
+"2011-01",
+"2025-12"
+],
+"Eugene City of": [
+"1990-01",
+"2010-12"
+],
+"Eugene Water & Electric Board": [
+"1998-01",
+"2001-12"
+]
+},
+"60631": {
+"Upper Michigan Energy Resources Corp.": [
+"2017-01",
+"2025-12"
+]
+},
+"6077": {
+"Exeter & Hampton Electric Co": [
+"1990-01",
+"2002-11"
+],
+"Exeter & Hampton Electric Co.": [
+"2001-01",
+"2001-12"
+]
+},
+"61098": {
+"Longroad Energy": [
+"2017-08",
+"2017-08"
+]
+},
+"6111": {
+"Central Electric Inc": [
+"2001-01",
+"2004-12"
+]
+},
+"6129": {
+"Fairbanks City of": [
+"1990-01",
+"1997-09"
+]
+},
+"6130": {
+"Fairburn City of": [
+"1990-01",
+"1990-12"
+]
+},
+"6132": {
+"Fairbury City of": [
+"1990-01",
+"1992-12"
+]
+},
+"6169": {
+"Fall River Rural Elec Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"6178": {
+"Falmouth City of": [
+"1990-01",
+"1990-12"
+]
+},
+"61823": {
+"Greenskies Renewable Energy, LLC": [
+"2018-01",
+"2018-11"
+]
+},
+"6204": {
+"City of Farmington": [
+"2008-01",
+"2011-12"
+],
+"City of Farmington - (NM)": [
+"2012-01",
+"2025-12"
+],
+"Farmington City of": [
+"1990-01",
+"1992-12"
+]
+},
+"6207": {
+"Farmington River Power Co": [
+"1990-01",
+"1992-12"
+]
+},
+"6235": {
+"Fayetteville Public Works Comm": [
+"1991-01",
+"2009-12"
+],
+"Fayetteville Public Works Commission": [
+"2017-01",
+"2025-12"
+],
+"Public Works Comm-City of Fayetteville": [
+"2010-01",
+"2016-12"
+]
+},
+"6257": {
+"Farmers Mutual Power Assn": [
+"1990-01",
+"1992-12"
+]
+},
+"6342": {
+"First Electric Coop Corp": [
+"1990-01",
+"2025-12"
+]
+},
+"636": {
+"Anderson City of": [
+"1990-01",
+"1992-12"
+]
+},
+"6369": {
+"Fishers Island Electric Corp": [
+"2001-01",
+"2001-12"
+],
+"Fishers Island Utility Co Inc": [
+"2002-01",
+"2025-12"
+]
+},
+"6374": {
+"Fitchburg Gas & Elec Light Co": [
+"1990-01",
+"2025-12"
+],
+"Fitchburg Gas and Electric Light Comp": [
+"2005-03",
+"2006-12"
+],
+"Fitchburg Gas and Electric Light Company": [
+"2007-01",
+"2009-12"
+]
+},
+"6395": {
+"": [
+"1999-01",
+"1999-12"
+],
+"Adquired from PacifiCorp": [
+"2000-02",
+"2000-12"
+],
+"Flathead Electric Coop Inc": [
+"2002-01",
+"2025-12"
+],
+"Flathead Electric Coop, Inc": [
+"2001-01",
+"2001-12"
+]
+},
+"6411": {
+"Flint Electric Membership Corp": [
+"1990-01",
+"1990-12"
+]
+},
+"6422": {
+"City of Florence": [
+"1998-01",
+"2001-12"
+],
+"City of Florence - (AL)": [
+"2011-01",
+"2025-12"
+],
+"Florence City of": [
+"1991-01",
+"2010-12"
+]
+},
+"6452": {
+"Florida Power & Light Co": [
+"1990-01",
+"2025-12"
+],
+"Florida Power & Light Co.": [
+"2007-01",
+"2009-12"
+],
+"Florida Power & Light Company": [
+"2001-01",
+"2001-12"
+]
+},
+"6455": {
+"Duke Energy Florida, Inc": [
+"2012-01",
+"2015-12"
+],
+"Duke Energy Florida, LLC": [
+"2016-01",
+"2025-12"
+],
+"Florida Power Corp": [
+"1990-01",
+"2003-11"
+],
+"Florida Power Corporation": [
+"1998-01",
+"2001-12"
+],
+"Progress Energy Florida": [
+"2003-12",
+"2009-12"
+],
+"Progress Energy Florida Inc": [
+"2010-01",
+"2011-12"
+]
+},
+"6457": {
+"Florida Public Utilities Co": [
+"2001-01",
+"2025-12"
+]
+},
+"6491": {
+"Foley City of (Riviera Utils)": [
+"1991-01",
+"1992-12"
+]
+},
+"653": {
+"Andreanof Electric Corp": [
+"2001-01",
+"2004-12"
+]
+},
+"6604": {
+"City of Fort Collins": [
+"1998-01",
+"2001-12"
+],
+"City of Fort Collins - (CO)": [
+"2011-01",
+"2025-12"
+],
+"Fort Collins City of": [
+"2002-01",
+"2010-12"
+],
+"Fort Collins Lgt & Pwr Utility": [
+"1993-01",
+"1997-12"
+]
+},
+"66101": {
+"FirstEnergy Pennsylvania Electric Co": [
+"2024-01",
+"2025-12"
+]
+},
+"6640": {
+"Four County Elec Member Corp": [
+"1991-01",
+"1992-12"
+]
+},
+"6641": {
+"4-County Electric Power Assn": [
+"1991-01",
+"2025-12"
+]
+},
+"6708": {
+"Frankfort City of": [
+"1991-01",
+"1992-12"
+]
+},
+"6717": {
+"Franklin Electric Coop": [
+"1991-01",
+"1992-12"
+]
+},
+"6775": {
+"Freeport Village of Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"6779": {
+"City of Freemont": [
+"2001-01",
+"2001-12"
+],
+"City of Fremont": [
+"1998-01",
+"2000-12"
+],
+"City of Fremont - (NE)": [
+"2011-01",
+"2025-12"
+],
+"Freemont City of": [
+"2002-01",
+"2005-01"
+],
+"Fremont City of": [
+"1990-01",
+"2010-12"
+]
+},
+"6784": {
+"French Broad Elec Member Corp": [
+"1990-01",
+"1990-12"
+]
+},
+"6840": {
+"Fulton City of": [
+"1991-01",
+"1992-12"
+]
+},
+"6866": {
+"G and K Inc": [
+"2001-01",
+"2002-03"
+]
+},
+"689": {
+"Anoka Electric Coop": [
+"1990-01",
+"2009-02"
+],
+"Anoka Electric Cooperative": [
+"1998-01",
+"2001-12"
+],
+"Connexus Energy": [
+"2009-03",
+"2025-12"
+]
+},
+"6930": {
+"Gallup City of": [
+"1990-01",
+"1992-12"
+]
+},
+"6958": {
+"Garland City of": [
+"1990-01",
+"1992-12"
+]
+},
+"7140": {
+"Georgia Power Co": [
+"1990-01",
+"2025-12"
+],
+"Georgia Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"7174": {
+"Gibson County Elec Member Corp": [
+"1991-01",
+"2001-12"
+],
+"Gibson Electric Members Corp": [
+"2002-01",
+"2025-12"
+]
+},
+"7222": {
+"City of Gillette": [
+"1996-01",
+"2001-12"
+],
+"City of Gillette - (WY)": [
+"2011-01",
+"2025-12"
+],
+"Gillette City of": [
+"2002-01",
+"2010-12"
+]
+},
+"727": {
+"Appalachian Electric Coop": [
+"1991-01",
+"2025-12"
+]
+},
+"7303": {
+"Glidden Rural Electric Coop": [
+"1990-01",
+"1992-12"
+]
+},
+"7318": {
+"Goldenwest Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"733": {
+"Appalachian Power Co": [
+"1990-01",
+"2025-12"
+],
+"Appalachian Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"7353": {
+"Golden Valley Elec Assn Inc": [
+"1990-01",
+"2025-12"
+],
+"Golden Valley Elec Assn, Inc": [
+"1998-01",
+"2001-12"
+]
+},
+"7359": {
+"Goldsboro Borough of": [
+"1990-01",
+"1992-12"
+]
+},
+"7480": {
+"Granbury City of": [
+"1990-01",
+"1992-12"
+]
+},
+"7490": {
+"Grand River Dam Authority": [
+"2005-01",
+"2025-12"
+]
+},
+"7496": {
+"Granite Falls Town of": [
+"1990-01",
+"1990-12"
+]
+},
+"752": {
+"Arapahoe City of": [
+"1990-01",
+"1992-12"
+]
+},
+"7601": {
+"Green Mountain Power Corp": [
+"1990-01",
+"2025-12"
+]
+},
+"7604": {
+"Green River Electric Corp": [
+"1990-01",
+"1998-12"
+]
+},
+"7625": {
+"City of Greeneville": [
+"1998-01",
+"2001-12"
+],
+"City of Greeneville - (TN)": [
+"2011-01",
+"2025-12"
+],
+"Greeneville City of": [
+"1991-01",
+"2010-12"
+]
+},
+"7639": {
+"Greenville Utilities Comm": [
+"1991-01",
+"1992-12"
+]
+},
+"7651": {
+"Greenwood Utilities Comm": [
+"1991-01",
+"1992-12"
+]
+},
+"768": {
+"Arcanum City of": [
+"1990-01",
+"1992-12"
+]
+},
+"7716": {
+"City of Groton Dept of Utils": [
+"1993-01",
+"1997-12"
+],
+"Groton Dept of Utilities": [
+"1998-01",
+"2011-12"
+],
+"Groton Dept of Utilities - (CT)": [
+"2012-01",
+"2025-12"
+]
+},
+"7760": {
+"Gueydan Town of": [
+"1990-01",
+"1992-12"
+]
+},
+"7801": {
+"Gulf Power Co": [
+"2002-01",
+"2022-01"
+],
+"Gulf Power Company": [
+"1993-01",
+"2001-12"
+]
+},
+"7806": {
+"Entergy Gulf States Inc": [
+"2002-01",
+"2007-12"
+],
+"Entergy Gulf States, Inc": [
+"2001-01",
+"2001-12"
+],
+"Gulf States Utilities Co": [
+"1990-01",
+"1997-12"
+],
+"Gulf States Utilities Company": [
+"1998-01",
+"2000-12"
+]
+},
+"7822": {
+"Gustavus Electric Inc": [
+"2001-01",
+"2004-12"
+]
+},
+"7833": {
+"Gwitchyaa Zhee Utility Co": [
+"2001-01",
+"2004-12"
+]
+},
+"7908": {
+"Hagerstown City of": [
+"1990-01",
+"1992-12"
+]
+},
+"803": {
+"Arizona Public Service Co": [
+"1990-01",
+"2025-12"
+],
+"Arizona Public Service Co.": [
+"2001-01",
+"2001-12"
+],
+"Arizona Public Service Company": [
+"1998-01",
+"2000-12"
+]
+},
+"814": {
+"Arkansas Power & Light Co": [
+"1990-01",
+"1997-12"
+],
+"Arkansas Power & Light Company": [
+"1998-01",
+"2000-12"
+],
+"Entergy Arkansas Inc": [
+"2002-01",
+"2017-12"
+],
+"Entergy Arkansas LLC": [
+"2018-01",
+"2025-12"
+],
+"Entergy Arkansas, Inc.": [
+"2001-01",
+"2001-12"
+]
+},
+"817": {
+"Arkansas Valley Elec Coop Corp": [
+"1993-01",
+"2025-12"
+],
+"Arkansas Valley Electric Coop.": [
+"1998-01",
+"2000-12"
+],
+"Arkansas Valley Electric Cooperative": [
+"2013-10",
+"2013-10"
+]
+},
+"8209": {
+"Hartford City of": [
+"1990-01",
+"1990-12"
+]
+},
+"8245": {
+"City of Hastings - (NE)": [
+"2011-01",
+"2025-12"
+],
+"Hasting Utilities": [
+"1996-01",
+"1997-12"
+],
+"Hastings City of": [
+"1990-01",
+"2010-12"
+],
+"Hastings Utilities": [
+"1998-01",
+"2001-12"
+]
+},
+"8287": {
+"Hawaii Electric Light Co Inc": [
+"1990-01",
+"2025-12"
+],
+"Hawaii Electric Light Co, Inc": [
+"2001-01",
+"2001-12"
+],
+"Hawaii Electric Light Co. Inc.": [
+"1998-01",
+"2000-12"
+]
+},
+"84": {
+"A & N Electric Coop": [
+"2008-01",
+"2025-12"
+]
+},
+"8400": {
+"Henderson-Union Rural E C C": [
+"1990-01",
+"1998-12"
+]
+},
+"8566": {
+"High Plains Power Inc": [
+"2001-01",
+"2025-12"
+]
+},
+"8570": {
+"Highline Electric Assn": [
+"1990-01",
+"1992-12"
+]
+},
+"8571": {
+"High Point Town of": [
+"1990-01",
+"1990-12"
+]
+},
+"8574": {
+"Jackson Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"8698": {
+"Hogansville City of": [
+"1991-01",
+"1992-12"
+]
+},
+"8723": {
+"Holland City of": [
+"1990-01",
+"1992-12"
+]
+},
+"8773": {
+"Holy Cross Electric Assn Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"8774": {
+"City of Holyoke - (MA)": [
+"2011-01",
+"2025-12"
+],
+"Holyoke City of": [
+"2002-01",
+"2010-12"
+]
+},
+"8779": {
+"Holyoke Water Power Co": [
+"2001-01",
+"2001-12"
+]
+},
+"8780": {
+"Fox Islands Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"8846": {
+"Hopkinsville City of": [
+"1991-01",
+"1992-12"
+]
+},
+"8883": {
+"Houlton Water Co": [
+"1990-01",
+"1992-12"
+],
+"Houlton Water Company": [
+"2015-01",
+"2025-12"
+]
+},
+"8901": {
+"Centerpoint Energy Houston Electr": [
+"2002-08",
+"2002-12"
+],
+"Centerpoint Energy Houston Electric": [
+"2003-01",
+"2003-01"
+],
+"Centerpoint Energy Houston Electric,": [
+"2003-02",
+"2003-03"
+],
+"Houston Lighting & Power Co": [
+"1990-01",
+"2000-12"
+],
+"Reliant Energy HL&P": [
+"2001-01",
+"2002-07"
+]
+},
+"8926": {
+"High Plains Power, Inc.": [
+"1998-01",
+"2000-12"
+],
+"Hot Springs Rural El Assn  Inc": [
+"1996-01",
+"1997-12"
+]
+},
+"8936": {
+"Hinson Power Company LLC": [
+"2011-01",
+"2015-12"
+]
+},
+"9000": {
+"Hughes Power and Light Co": [
+"2001-01",
+"2004-12"
+]
+},
+"9094": {
+"City of Huntsville": [
+"1998-02",
+"2000-12"
+],
+"City of Huntsville - (AL)": [
+"2011-01",
+"2025-12"
+],
+"Huntsville City of": [
+"1991-01",
+"2010-12"
+],
+"Huntsville Utilities": [
+"2001-01",
+"2001-12"
+]
+},
+"9144": {
+"Hyde Park Village of Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"9162": {
+"IES Utilities": [
+"1998-01",
+"2001-12"
+],
+"IES Utilities Inc": [
+"1994-01",
+"1997-12"
+]
+},
+"9163": {
+"Hyrum City Corp": [
+"1990-01",
+"1992-12"
+]
+},
+"9187": {
+"City of Idaho Falls": [
+"1994-01",
+"2001-12"
+],
+"City of Idaho Falls - (ID)": [
+"2011-01",
+"2025-12"
+],
+"Idaho Falls City of": [
+"1990-01",
+"2010-12"
+]
+},
+"9191": {
+"Idaho Power Co": [
+"1990-01",
+"2025-12"
+],
+"Idaho Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"9208": {
+"Illinois Power Co": [
+"1990-01",
+"2010-09"
+],
+"Illinois Power Company": [
+"1998-01",
+"2001-12"
+]
+},
+"9216": {
+"Imperial Irrigation District": [
+"2003-01",
+"2025-12"
+]
+},
+"9231": {
+"City of Independence": [
+"1993-01",
+"2001-12"
+],
+"City of Independence - (MO)": [
+"2011-01",
+"2025-12"
+],
+"Independece City of": [
+"2002-01",
+"2002-10"
+],
+"Independence City of": [
+"2002-11",
+"2010-12"
+]
+},
+"924": {
+"Associated Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"9246": {
+"Indian Electric Coop Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"9273": {
+"AES Indiana": [
+"2023-01",
+"2025-12"
+],
+"Indianapolis Power & Light Co": [
+"1990-01",
+"2022-12"
+]
+},
+"9324": {
+"Indiana & Michigan Power Co.": [
+"1998-01",
+"2000-12"
+],
+"Indiana MIchigan Power Co": [
+"2001-01",
+"2001-12"
+],
+"Indiana Michigan Power Co": [
+"1990-01",
+"2025-12"
+]
+},
+"9331": {
+"Intercounty Electric Coop Assn": [
+"1993-01",
+"1994-12"
+]
+},
+"9336": {
+"CORE Electric Cooperative": [
+"2021-01",
+"2025-12"
+],
+"Intermountain Rural Elec Assn": [
+"1994-01",
+"2020-12"
+]
+},
+"9392": {
+"Alliant/Interstate Power Co": [
+"2001-01",
+"2001-12"
+],
+"Interstate Power Co": [
+"1990-01",
+"1997-12"
+],
+"Interstate Power Company": [
+"1998-01",
+"2000-12"
+]
+},
+"9417": {
+"Interstate Power and Light Co": [
+"2002-01",
+"2025-12"
+]
+},
+"9423": {
+"Iowa Electric Light & Power Co": [
+"1990-01",
+"1993-12"
+]
+},
+"9429": {
+"Iowa Power & Light Co": [
+"1990-01",
+"1991-12"
+]
+},
+"9432": {
+"Iowa Southern Utilities Co": [
+"1990-01",
+"1993-12"
+]
+},
+"9435": {
+"Iowa Public Service Co": [
+"1990-01",
+"1991-12"
+]
+},
+"9438": {
+"Iowa-Illinois Gas&Electric Co": [
+"1990-01",
+"1995-06"
+]
+},
+"947": {
+"Athens City of": [
+"1991-01",
+"1992-12"
+]
+},
+"9601": {
+"Jackson Electric Member Corp": [
+"1990-01",
+"2010-12"
+],
+"Jackson Electric Member Corp - (GA)": [
+"2011-01",
+"2025-12"
+]
+},
+"9605": {
+"Jackson Purchase El Coop Corp": [
+"1990-01",
+"1990-12"
+]
+},
+"9612": {
+"Jackson City of": [
+"1991-01",
+"1992-12"
+]
+},
+"9617": {
+"JEA": [
+"2004-12",
+"2025-12"
+],
+"Jacksonville Electric Auth": [
+"1990-01",
+"1992-12"
+],
+"Jacksonville Electric Authority": [
+"2004-01",
+"2008-05"
+]
+},
+"963": {
+"Atlantic City Electric Co": [
+"2002-01",
+"2025-12"
+],
+"Atlantic City Electric Company": [
+"1993-01",
+"2001-12"
+]
+},
+"9645": {
+"Jamestown Board of Public Util": [
+"2010-10",
+"2025-12"
+],
+"Jamestown City of": [
+"1990-01",
+"1992-12"
+]
+},
+"967": {
+"Atlanta Power Co Inc": [
+"1990-01",
+"2004-09"
+],
+"Atlanta Power Company, Inc": [
+"2001-01",
+"2001-12"
+]
+},
+"9680": {
+"Klukwan Indian Village": [
+"1990-01",
+"1992-12"
+]
+},
+"9697": {
+"Jellico City of": [
+"1991-01",
+"1992-12"
+]
+},
+"9699": {
+"Jemez Mountains Elec Coop, Inc": [
+"2003-01",
+"2011-12"
+]
+},
+"970": {
+"Ameren Energy Marketing": [
+"2004-02",
+"2005-12"
+]
+},
+"9726": {
+"Jersey Central Power & Lt Co": [
+"2002-01",
+"2025-12"
+],
+"Jersey Central Power&Light Co": [
+"1990-01",
+"2000-12"
+],
+"Jersey Central Pwr & Light Co": [
+"2001-01",
+"2001-12"
+]
+},
+"9734": {
+"Jewett City City of": [
+"1990-01",
+"1992-12"
+]
+},
+"9737": {
+"Jewell-Mitchell Coop Elec Inc": [
+"1990-01",
+"1992-12"
+]
+},
+"9739": {
+"Joe Wheeler Elec Member Corp": [
+"1993-01",
+"2025-12"
+]
+},
+"9777": {
+"Johnson City - (TN)": [
+"2011-01",
+"2025-12"
+],
+"Johnson City City of": [
+"1991-01",
+"2010-12"
+],
+"Johnson City Power Board": [
+"1998-01",
+"2001-12"
+]
+},
+"9832": {
+"Kuiggluum Kallugvia": [
+"2001-01",
+"2004-12"
+]
+},
+"9837": {
+"Jones-Onslow Elec Member Corp": [
+"1993-01",
+"2025-12"
+]
+},
+"9964": {
+"": [
+"1999-08",
+"1999-12"
+],
+"K Energy Corp": [
+"2000-01",
+"2000-12"
+],
+"Kenergy": [
+"2001-01",
+"2001-12"
+],
+"Kenergy Corp": [
+"2002-01",
+"2025-12"
+]
+},
+"9995": {
+"Kanosh Town of": [
+"1990-01",
+"1992-12"
+]
+},
+"9996": {
+"Board of Public Utilities": [
+"2001-01",
+"2001-12"
+],
+"City of Kansas City": [
+"1998-01",
+"2000-12"
+],
+"City of Kansas City - (KS)": [
+"2011-01",
+"2025-12"
+],
+"Kansas City City of": [
+"1990-01",
+"2010-12"
+]
+},
+"9999": {
+"Kankakee Valley Rural E M C": [
+"1990-01",
+"1992-12"
+]
+}
+}

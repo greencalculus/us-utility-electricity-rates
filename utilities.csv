@@ -1,0 +1,41 @@
+rank,utility,name,eia_name,eia_id,predecessor_ids,states,ownership,reports_monthly,note
+1,fpl,FPL (Florida Power & Light),Florida Power & Light Co,6452,,FL,Investor Owned,1,
+2,pge,PG&E (Pacific Gas and Electric),Pacific Gas & Electric Co.,14328,,CA,Investor Owned,1,
+3,sce,Southern California Edison (SCE),Southern California Edison Co,17609,,CA,Investor Owned,1,
+4,comed,ComEd (Commonwealth Edison),Commonwealth Edison Co,4110,,IL,Investor Owned,1,
+5,con-edison,Con Edison,Consolidated Edison Co-NY Inc,4226,,NY,Investor Owned,1,
+6,duke-energy-carolinas,Duke Energy Carolinas,"Duke Energy Carolinas, LLC",5416,,NC SC,Investor Owned,1,Duke Power until 2006
+7,dominion-energy,Dominion Energy (Virginia and North Carolina),Virginia Electric & Power Co,19876,,VA NC,Investor Owned,1,Virginia Electric and Power Company
+8,georgia-power,Georgia Power,Georgia Power Co,7140,,GA,Investor Owned,1,
+9,dte-energy,DTE Energy (DTE Electric),DTE Electric Company,5109,,MI,Investor Owned,1,Detroit Edison until 2013
+10,pseg,PSE&G (Public Service Electric and Gas),Public Service Elec & Gas Co,15477,,NJ,Investor Owned,1,
+11,pacificorp,PacifiCorp (Rocky Mountain Power and Pacific Power),PacifiCorp,14354,,UT OR WY WA ID CA,Investor Owned,1,monthly rows from 1991; Montana rows end October 1998; California rows from 2002
+12,duke-energy-florida,Duke Energy Florida,"Duke Energy Florida, LLC",6455,,FL,Investor Owned,1,"Florida Power Corp, then Progress Energy Florida"
+13,firstenergy-pennsylvania,"FirstEnergy Pennsylvania (Met-Ed, Penelec, Penn Power, West Penn Power)",FirstEnergy Pennsylvania Electric Co,66101,12390 14711 14716 20387,PA NY,Investor Owned,1,four companies merged January 2024
+14,consumers-energy,Consumers Energy,Consumers Energy Co - (MI),4254,,MI,Investor Owned,1,
+15,reliant,Reliant Energy,Reliant Energy Retail Services,15847,,TX,Retail Power Marketer,0,Texas retailer: no monthly EIA series
+16,peco,PECO,PECO Energy Co,14940,,PA,Investor Owned,1,Philadelphia Electric until 1994
+17,national-grid-new-york,National Grid New York (Niagara Mohawk),Niagara Mohawk Power Corp.,13573,,NY,Investor Owned,1,
+18,duke-energy-progress,Duke Energy Progress,Duke Energy Progress - (NC),3046,,NC SC,Investor Owned,1,"Carolina Power & Light, then Progress Energy Carolinas"
+19,txu-energy,TXU Energy,"TXU Energy Retail Co, LLC",19327,,TX,Retail Power Marketer,0,Texas retailer: no monthly EIA series
+20,xcel-energy-minnesota,Xcel Energy Minnesota (Northern States Power),Northern States Power Co - Minnesota,13781,,MN SD ND,Investor Owned,1,
+21,ladwp,LADWP (Los Angeles Department of Water and Power),Los Angeles Department of Water & Power,11208,,CA,Municipal,1,
+22,xcel-energy-colorado,Xcel Energy Colorado (Public Service Company of Colorado),Public Service Co of Colorado,15466,,CO,Investor Owned,1,
+23,sdge,SDG&E (San Diego Gas & Electric),San Diego Gas & Electric Co,16609,,CA,Investor Owned,1,not in the monthly sample 1993 to 2000
+24,aep-ohio,AEP Ohio (Ohio Power),Ohio Power Co,14006,4062,OH,Investor Owned,1,Columbus Southern Power merged into Ohio Power after December 2011
+25,alabama-power,Alabama Power,Alabama Power Co,195,,AL,Investor Owned,1,
+26,ppl-electric,PPL Electric Utilities,PPL Electric Utilities Corp,14715,,PA,Investor Owned,1,
+27,aps,APS (Arizona Public Service),Arizona Public Service Co,803,,AZ,Investor Owned,1,
+28,eversource-massachusetts,Eversource Massachusetts (NSTAR Electric),NSTAR Electric Company,54913,1998 4089 2886 20455,MA,Investor Owned,1,"Boston Edison, Commonwealth Electric and Cambridge Electric to 2006; Western Massachusetts Electric merged 2018"
+29,national-grid-massachusetts,National Grid Massachusetts (Massachusetts Electric),Massachusetts Electric Co,11804,,MA,Investor Owned,1,
+30,bge,BGE (Baltimore Gas and Electric),Baltimore Gas & Electric Co,1167,,MD,Investor Owned,1,
+31,eversource-connecticut,Eversource Connecticut (Connecticut Light & Power),Connecticut Light & Power Co,4176,,CT,Investor Owned,1,
+32,puget-sound-energy,Puget Sound Energy,Puget Sound Energy Inc,15500,,WA,Investor Owned,1,
+33,ameren-missouri,Ameren Missouri (Union Electric),Union Electric Co - (MO),19436,,MO,Investor Owned,1,
+34,srp,SRP (Salt River Project),Salt River Project,16572,,AZ,Political Subdivision,1,
+35,ameren-illinois,Ameren Illinois,Ameren Illinois Company,56697,3253 3252 9208,IL,Investor Owned,1,"CIPS, CILCO and Illinois Power merged October 2010"
+36,we-energies,We Energies (Wisconsin Electric Power),Wisconsin Electric Power Co,20847,,WI,Investor Owned,1,
+37,jcpl,JCP&L (Jersey Central Power & Light),Jersey Central Power & Lt Co,9726,,NJ,Investor Owned,1,
+38,pseg-long-island,PSEG Long Island (Long Island Power Authority),Long Island Power Authority,11171,11172,NY,State,1,"LILCO to 1998; LIPA from 1999, run by PSEG since 2014"
+39,entergy-louisiana,Entergy Louisiana,Entergy Louisiana LLC,11241,7806 55936,LA,Investor Owned,1,Gulf States Louisiana merged October 2015
+40,ohio-edison,Ohio Edison (FirstEnergy),Ohio Edison Co,13998,,OH,Investor Owned,1,

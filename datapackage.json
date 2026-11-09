@@ -1,0 +1,444 @@
+{
+ "name": "us-utility-electricity-rates",
+ "title": "US Utility Residential Electricity Prices, Monthly since 1990",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "homepage": "https://greencalculus.com/data/utility-rates/",
+ "version": "2026.11.09",
+ "resources": [
+  {
+   "name": "utilities",
+   "path": "utilities.csv",
+   "format": "csv",
+   "title": "The 40 utilities",
+   "schema": {
+    "fields": [
+     {
+      "name": "rank",
+      "type": "integer",
+      "description": "Rank by homes served, EIA-861 latest year"
+     },
+     {
+      "name": "utility",
+      "type": "string",
+      "description": "Slug"
+     },
+     {
+      "name": "name",
+      "type": "string",
+      "description": "Common name"
+     },
+     {
+      "name": "eia_name",
+      "type": "string",
+      "description": "Name on EIA returns"
+     },
+     {
+      "name": "eia_id",
+      "type": "integer",
+      "description": "EIA utility number"
+     },
+     {
+      "name": "predecessor_ids",
+      "type": "string",
+      "description": "EIA numbers of merged predecessors whose months are added, separated by spaces"
+     },
+     {
+      "name": "states",
+      "type": "string",
+      "description": "States served"
+     },
+     {
+      "name": "ownership",
+      "type": "string",
+      "description": "EIA ownership type"
+     },
+     {
+      "name": "reports_monthly",
+      "type": "integer",
+      "description": "1 if the utility is in the EIA-861M monthly sample, 0 if only annual"
+     },
+     {
+      "name": "note",
+      "type": "string",
+      "description": "Note on the series"
+     }
+    ]
+   }
+  },
+  {
+   "name": "utility-electricity-prices-latest",
+   "path": "utility-electricity-prices-latest.csv",
+   "format": "csv",
+   "title": "Latest 12 months for each utility",
+   "schema": {
+    "fields": [
+     {
+      "name": "utility",
+      "type": "string",
+      "description": "Slug of the utility, as in utilities.csv"
+     },
+     {
+      "name": "period_end",
+      "type": "string",
+      "description": "Last month of the window"
+     },
+     {
+      "name": "months_in_window",
+      "type": "integer",
+      "description": "Months EIA published in the window"
+     },
+     {
+      "name": "price_cents_per_kwh",
+      "type": "number",
+      "description": "Revenue from homes divided by kWh sold to them"
+     },
+     {
+      "name": "prior_price_cents_per_kwh",
+      "type": "number",
+      "description": "Same for the 12 months before"
+     },
+     {
+      "name": "change_pct",
+      "type": "number",
+      "description": "Change on the 12 months before"
+     },
+     {
+      "name": "bill_usd_per_month",
+      "type": "number",
+      "description": "Average monthly bill"
+     },
+     {
+      "name": "kwh_per_month",
+      "type": "number",
+      "description": "Average monthly use"
+     },
+     {
+      "name": "price_rank",
+      "type": "integer",
+      "description": "1 = dearest of the 40"
+     },
+     {
+      "name": "homes_total",
+      "type": "integer",
+      "description": "Homes on the wires, EIA-861"
+     },
+     {
+      "name": "homes_own_supply",
+      "type": "integer",
+      "description": "Homes buying power from the utility"
+     },
+     {
+      "name": "homes_delivery_only",
+      "type": "integer",
+      "description": "Homes buying power elsewhere"
+     },
+     {
+      "name": "delivery_only_cents_per_kwh",
+      "type": "number",
+      "description": "Wires-only revenue per kWh, EIA-861"
+     }
+    ]
+   }
+  },
+  {
+   "name": "utility-electricity-prices-monthly",
+   "path": "utility-electricity-prices-monthly.csv",
+   "format": "csv",
+   "title": "Every month since 1990",
+   "schema": {
+    "fields": [
+     {
+      "name": "utility",
+      "type": "string",
+      "description": "Slug of the utility, as in utilities.csv"
+     },
+     {
+      "name": "month",
+      "type": "string",
+      "description": "YYYY-MM"
+     },
+     {
+      "name": "price_cents_per_kwh",
+      "type": "number",
+      "description": "Revenue divided by kWh, as EIA published"
+     },
+     {
+      "name": "kwh_per_customer",
+      "type": "number",
+      "description": "kWh per customer"
+     },
+     {
+      "name": "bill_usd_per_customer",
+      "type": "number",
+      "description": "Revenue per customer"
+     },
+     {
+      "name": "customers",
+      "type": "integer",
+      "description": "Residential customers on own supply"
+     }
+    ]
+   }
+  },
+  {
+   "name": "utility-electricity-prices-annual",
+   "path": "utility-electricity-prices-annual.csv",
+   "format": "csv",
+   "title": "Every year since 1990",
+   "schema": {
+    "fields": [
+     {
+      "name": "utility",
+      "type": "string",
+      "description": "Slug of the utility, as in utilities.csv"
+     },
+     {
+      "name": "year",
+      "type": "integer",
+      "description": "Calendar year"
+     },
+     {
+      "name": "price_cents_per_kwh",
+      "type": "number",
+      "description": "Price"
+     },
+     {
+      "name": "kwh_per_month",
+      "type": "number",
+      "description": "Use"
+     },
+     {
+      "name": "bill_usd_per_month",
+      "type": "number",
+      "description": "Bill"
+     },
+     {
+      "name": "customers",
+      "type": "integer",
+      "description": "Customers"
+     },
+     {
+      "name": "price_today_dollars",
+      "type": "number",
+      "description": "Price in latest dollars, BLS CPI-U all items"
+     },
+     {
+      "name": "source",
+      "type": "string",
+      "description": "m = sum of monthly returns, a = EIA-861 annual"
+     }
+    ]
+   }
+  },
+  {
+   "name": "utility-prices-by-state",
+   "path": "utility-prices-by-state.csv",
+   "format": "csv",
+   "title": "Latest 12 months, by state served",
+   "schema": {
+    "fields": [
+     {
+      "name": "utility",
+      "type": "string",
+      "description": "Slug of the utility, as in utilities.csv"
+     },
+     {
+      "name": "state",
+      "type": "string",
+      "description": "State"
+     },
+     {
+      "name": "price_cents_per_kwh",
+      "type": "number",
+      "description": "Price"
+     },
+     {
+      "name": "bill_usd_per_month",
+      "type": "number",
+      "description": "Bill"
+     },
+     {
+      "name": "kwh_per_month",
+      "type": "number",
+      "description": "Use"
+     },
+     {
+      "name": "customers",
+      "type": "integer",
+      "description": "Customers"
+     },
+     {
+      "name": "months_in_window",
+      "type": "integer",
+      "description": "Months published"
+     }
+    ]
+   }
+  },
+  {
+   "name": "utility-outages",
+   "path": "utility-outages.csv",
+   "format": "csv",
+   "title": "Outages since 2013",
+   "schema": {
+    "fields": [
+     {
+      "name": "utility",
+      "type": "string",
+      "description": "Slug of the utility, as in utilities.csv"
+     },
+     {
+      "name": "year",
+      "type": "integer",
+      "description": "Year"
+     },
+     {
+      "name": "standard",
+      "type": "string",
+      "description": "IEEE or Other, as reported"
+     },
+     {
+      "name": "saidi_minutes_all",
+      "type": "number",
+      "description": "Minutes without power per customer, all events"
+     },
+     {
+      "name": "saifi_all",
+      "type": "number",
+      "description": "Interruptions per customer, all events"
+     },
+     {
+      "name": "saidi_minutes_excl_major",
+      "type": "number",
+      "description": "Excluding major event days"
+     },
+     {
+      "name": "saifi_excl_major",
+      "type": "number",
+      "description": "Excluding major event days"
+     },
+     {
+      "name": "us_saidi_minutes_all",
+      "type": "number",
+      "description": "US customer-weighted average"
+     }
+    ]
+   }
+  },
+  {
+   "name": "utility-rooftop-solar",
+   "path": "utility-rooftop-solar.csv",
+   "format": "csv",
+   "title": "Net-metered home solar since 2013",
+   "schema": {
+    "fields": [
+     {
+      "name": "utility",
+      "type": "string",
+      "description": "Slug of the utility, as in utilities.csv"
+     },
+     {
+      "name": "year",
+      "type": "integer",
+      "description": "Year"
+     },
+     {
+      "name": "homes",
+      "type": "integer",
+      "description": "Residential net-metered solar installations"
+     },
+     {
+      "name": "capacity_mw",
+      "type": "number",
+      "description": "Capacity"
+     }
+    ]
+   }
+  },
+  {
+   "name": "utility-supply-split",
+   "path": "utility-supply-split.csv",
+   "format": "csv",
+   "title": "Who supplies the homes",
+   "schema": {
+    "fields": [
+     {
+      "name": "utility",
+      "type": "string",
+      "description": "Slug of the utility, as in utilities.csv"
+     },
+     {
+      "name": "year",
+      "type": "integer",
+      "description": "Year"
+     },
+     {
+      "name": "homes_own_supply",
+      "type": "integer",
+      "description": "EIA-861 Parts A and D"
+     },
+     {
+      "name": "homes_delivery_only",
+      "type": "integer",
+      "description": "EIA-861 Part C"
+     }
+    ]
+   }
+  },
+  {
+   "name": "utility-service-counties",
+   "path": "utility-service-counties.csv",
+   "format": "csv",
+   "title": "Counties served",
+   "schema": {
+    "fields": [
+     {
+      "name": "utility",
+      "type": "string",
+      "description": "Slug of the utility, as in utilities.csv"
+     },
+     {
+      "name": "state",
+      "type": "string",
+      "description": "State"
+     },
+     {
+      "name": "county",
+      "type": "string",
+      "description": "County; may be served in part"
+     }
+    ]
+   }
+  },
+  {
+   "name": "us-and-state-prices-annual",
+   "path": "us-and-state-prices-annual.csv",
+   "format": "csv",
+   "title": "US and state yearly price",
+   "schema": {
+    "fields": [
+     {
+      "name": "area",
+      "type": "string",
+      "description": "US or state"
+     },
+     {
+      "name": "year",
+      "type": "integer",
+      "description": "Year"
+     },
+     {
+      "name": "price_cents_per_kwh",
+      "type": "number",
+      "description": "Residential price"
+     }
+    ]
+   }
+  }
+ ]
+}

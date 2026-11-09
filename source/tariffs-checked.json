@@ -1,0 +1,111 @@
+{
+ "pge": {
+  "checked": "2026-11-09",
+  "book": "https://www.pge.com/tariffs/en/rate-information/electric-rates.html",
+  "fixed": "Base Services Charge, billed by the day: 79.343¢ a day for most homes (about $24 a month), 39.688¢ for income tier 2, 19.713¢ for income tier 1.",
+  "plans": [
+   {
+    "name": "E-1, Residential Services (tiered)",
+    "about": "The price steps up once a home passes its baseline allowance for the season and climate zone.",
+    "url": "https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_E-1.pdf",
+    "basis": "Total bundled rates, effective 1 June 2026, Advice 7921-E, Decision D.26-04-036.",
+    "rates": [
+     [
+      "Tier 1, up to 100% of baseline",
+      "32.561¢/kWh"
+     ],
+     [
+      "Tier 2, above baseline",
+      "40.702¢/kWh"
+     ]
+    ]
+   },
+   {
+    "name": "E-TOU-C, time of use, peak 4–9 p.m. every day",
+    "about": "The price depends on the hour and the season. Usage inside the baseline allowance gets a credit of 8.140¢/kWh.",
+    "url": "https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_E-TOU-C.pdf",
+    "basis": "Total bundled rates, effective 1 June 2026, Advice 7921-E, Decision D.26-04-036.",
+    "rates": [
+     [
+      "Summer, peak",
+      "52.240¢/kWh"
+     ],
+     [
+      "Summer, off-peak",
+      "39.940¢/kWh"
+     ],
+     [
+      "Winter, peak",
+      "39.757¢/kWh"
+     ],
+     [
+      "Winter, off-peak",
+      "36.757¢/kWh"
+     ]
+    ]
+   }
+  ],
+  "note": "The filed schedules also list a California Climate Credit of $36.18 per household, which the current sheets place in the August and September bill cycles.",
+  "changes": [
+   {
+    "when": "Filed 15 May 2025, decision expected May 2027",
+    "what": "PG&E’s 2027 general rate case (A.25-05-009) asks for $16.637 billion of revenue in 2027, an increase of $1.237 billion or 8%, and 6.1% more in each of 2028 to 2030. The CPUC’s fact sheet puts a typical combined gas and electric residential bill up 3.6% in 2027 against 2025.",
+    "source": "CPUC fact sheet",
+    "url": "https://www.cpuc.ca.gov/-/media/cpuc-website/proceedings-and-rulemaking/documents/pge-2027-gre-pph/fact-sheet-pge-2027-grc-a2505009---final.pdf"
+   }
+  ]
+ },
+ "sce": {
+  "checked": "2026-11-09",
+  "book": "https://www.sce.com/regulatory/tariff-books",
+  "fixed": "Base Services Charge, billed by the day: about $24.15 a month for most homes, $12 for FERA and $6 for CARE customers, according to SCE.",
+  "plans": [],
+  "note": "SCE’s plan prices change often and its tariff book is the place to read them; we show only what we could re-check. SCE states an average residential rate of 34.5¢ per kWh from 1 October 2026, or 33.3¢ counting the Climate Credit.",
+  "changes": [
+   {
+    "when": "1 October 2026",
+    "what": "SCE’s average residential rate moved from 34.4¢ to 34.5¢ per kWh. SCE describes it as the net result of Woolsey Fire revenue increases, offset by decreases elsewhere.",
+    "source": "SCE rate advisory",
+    "url": "https://www.sce.com/save-money/rates-financing/sce-rate-advisory"
+   },
+   {
+    "when": "18 September 2025",
+    "what": "The CPUC decided SCE’s 2025 general rate case (A.23-05-010): a 2025 base revenue requirement of $9.664 billion, up 12.61%. At 500 kWh a month, the non-CARE bill rises $15.52 (9.1%) and the CARE bill $9.79 (9.1%).",
+    "source": "CPUC decision fact sheet",
+    "url": "https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/general-rate-cases/sce/fact-sheet-sce-grc-091825.pdf"
+   }
+  ]
+ },
+ "duke-energy-carolinas": {
+  "checked": "2026-11-09",
+  "book": "https://www.duke-energy.com/home/billing/rates",
+  "fixed": "North Carolina Schedule RS: Basic Customer Charge $14.00 a month.",
+  "plans": [
+   {
+    "name": "Schedule RS, Residential Service (North Carolina)",
+    "about": "One price per kWh before riders. Riders are added on top, which is why the all-in average above is higher.",
+    "url": "https://www.duke-energy.com/-/media/pdfs/for-your-home/rates/electric-nc/ncschedulers.pdf",
+    "basis": "Leaf No. 11, effective 1 January 2026, NCUC Docket E-7, Subs 1276 and 1325.",
+    "rates": [
+     [
+      "Energy charge, before riders",
+      "12.2603¢/kWh"
+     ],
+     [
+      "Basic customer charge",
+      "$14.00/month"
+     ]
+    ]
+   }
+  ],
+  "note": "South Carolina homes are billed under a separate South Carolina schedule, not shown here.",
+  "changes": [
+   {
+    "when": "Settlement reported July 2026, not approved when last checked",
+    "what": "A settlement in Duke Energy Carolinas’ North Carolina rate case would raise residential rates 5.9% in 2027 and 3.6% in 2028, with a return on equity of 9.8% against the 10.95% requested. It needs Utilities Commission approval, and not every party signed.",
+    "source": "WFAE, 20 July 2026",
+    "url": "https://www.wfae.org/energy-environment/2026-07-20/duke-energy-carolinas-halves-its-rate-hike-request-in-new-settlement"
+   }
+  ]
+ }
+}

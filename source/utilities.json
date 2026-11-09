@@ -1,0 +1,757 @@
+{
+ "_about": "The 40 US utilities serving the most homes (EIA-861 2025, bundled + delivery-only + Texas retail). Monthly series = eia_id + predecessors summed per month. tariff_url is checked by hand.",
+ "utilities": [
+  {
+   "rank": 1,
+   "slug": "fpl",
+   "brand": "FPL (Florida Power & Light)",
+   "eia_name": "Florida Power & Light Co",
+   "eia_id": 6452,
+   "predecessors": [],
+   "states": [
+    "FL"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 5337118,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 2,
+   "slug": "pge",
+   "brand": "PG&E (Pacific Gas and Electric)",
+   "eia_name": "Pacific Gas & Electric Co.",
+   "eia_id": 14328,
+   "predecessors": [],
+   "states": [
+    "CA"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 5055556,
+   "bundled_share_2025": 0.344,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 3,
+   "slug": "sce",
+   "brand": "Southern California Edison (SCE)",
+   "eia_name": "Southern California Edison Co",
+   "eia_id": 17609,
+   "predecessors": [],
+   "states": [
+    "CA"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 4627247,
+   "bundled_share_2025": 0.705,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 4,
+   "slug": "comed",
+   "brand": "ComEd (Commonwealth Edison)",
+   "eia_name": "Commonwealth Edison Co",
+   "eia_id": 4110,
+   "predecessors": [],
+   "states": [
+    "IL"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 3753924,
+   "bundled_share_2025": 0.805,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 5,
+   "slug": "con-edison",
+   "brand": "Con Edison",
+   "eia_name": "Consolidated Edison Co-NY Inc",
+   "eia_id": 4226,
+   "predecessors": [],
+   "states": [
+    "NY"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 3088999,
+   "bundled_share_2025": 0.899,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 6,
+   "slug": "duke-energy-carolinas",
+   "brand": "Duke Energy Carolinas",
+   "eia_name": "Duke Energy Carolinas, LLC",
+   "eia_id": 5416,
+   "predecessors": [],
+   "states": [
+    "NC",
+    "SC"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 2543170,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "Duke Power until 2006",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 7,
+   "slug": "dominion-energy",
+   "brand": "Dominion Energy (Virginia and North Carolina)",
+   "eia_name": "Virginia Electric & Power Co",
+   "eia_id": 19876,
+   "predecessors": [],
+   "states": [
+    "VA",
+    "NC"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 2517958,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "Virginia Electric and Power Company",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 8,
+   "slug": "georgia-power",
+   "brand": "Georgia Power",
+   "eia_name": "Georgia Power Co",
+   "eia_id": 7140,
+   "predecessors": [],
+   "states": [
+    "GA"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 2480484,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 9,
+   "slug": "dte-energy",
+   "brand": "DTE Energy (DTE Electric)",
+   "eia_name": "DTE Electric Company",
+   "eia_id": 5109,
+   "predecessors": [],
+   "states": [
+    "MI"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 2078328,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "Detroit Edison until 2013",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 10,
+   "slug": "pseg",
+   "brand": "PSE&G (Public Service Electric and Gas)",
+   "eia_name": "Public Service Elec & Gas Co",
+   "eia_id": 15477,
+   "predecessors": [],
+   "states": [
+    "NJ"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 2072339,
+   "bundled_share_2025": 0.955,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 11,
+   "slug": "pacificorp",
+   "brand": "PacifiCorp (Rocky Mountain Power and Pacific Power)",
+   "eia_name": "PacifiCorp",
+   "eia_id": 14354,
+   "predecessors": [],
+   "states": [
+    "UT",
+    "OR",
+    "WY",
+    "WA",
+    "ID",
+    "CA"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1867246,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "monthly rows from 1991; Montana rows end October 1998; California rows from 2002",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 12,
+   "slug": "duke-energy-florida",
+   "brand": "Duke Energy Florida",
+   "eia_name": "Duke Energy Florida, LLC",
+   "eia_id": 6455,
+   "predecessors": [],
+   "states": [
+    "FL"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1819962,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "Florida Power Corp, then Progress Energy Florida",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 13,
+   "slug": "firstenergy-pennsylvania",
+   "brand": "FirstEnergy Pennsylvania (Met-Ed, Penelec, Penn Power, West Penn Power)",
+   "eia_name": "FirstEnergy Pennsylvania Electric Co",
+   "eia_id": 66101,
+   "predecessors": [
+    12390,
+    14711,
+    14716,
+    20387
+   ],
+   "states": [
+    "PA",
+    "NY"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1812335,
+   "bundled_share_2025": 0.814,
+   "monthly": true,
+   "note": "four companies merged January 2024",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 14,
+   "slug": "consumers-energy",
+   "brand": "Consumers Energy",
+   "eia_name": "Consumers Energy Co - (MI)",
+   "eia_id": 4254,
+   "predecessors": [],
+   "states": [
+    "MI"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1662741,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 15,
+   "slug": "reliant",
+   "brand": "Reliant Energy",
+   "eia_name": "Reliant Energy Retail Services",
+   "eia_id": 15847,
+   "predecessors": [],
+   "states": [
+    "TX"
+   ],
+   "ownership": "Retail Power Marketer",
+   "homes_2025": 1545510,
+   "bundled_share_2025": null,
+   "monthly": false,
+   "note": "Texas retailer: no monthly EIA series",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 16,
+   "slug": "peco",
+   "brand": "PECO",
+   "eia_name": "PECO Energy Co",
+   "eia_id": 14940,
+   "predecessors": [],
+   "states": [
+    "PA"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1538993,
+   "bundled_share_2025": 0.796,
+   "monthly": true,
+   "note": "Philadelphia Electric until 1994",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 17,
+   "slug": "national-grid-new-york",
+   "brand": "National Grid New York (Niagara Mohawk)",
+   "eia_name": "Niagara Mohawk Power Corp.",
+   "eia_id": 13573,
+   "predecessors": [],
+   "states": [
+    "NY"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1536569,
+   "bundled_share_2025": 0.943,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 18,
+   "slug": "duke-energy-progress",
+   "brand": "Duke Energy Progress",
+   "eia_name": "Duke Energy Progress - (NC)",
+   "eia_id": 3046,
+   "predecessors": [],
+   "states": [
+    "NC",
+    "SC"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1527825,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "Carolina Power & Light, then Progress Energy Carolinas",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 19,
+   "slug": "txu-energy",
+   "brand": "TXU Energy",
+   "eia_name": "TXU Energy Retail Co, LLC",
+   "eia_id": 19327,
+   "predecessors": [],
+   "states": [
+    "TX"
+   ],
+   "ownership": "Retail Power Marketer",
+   "homes_2025": 1442516,
+   "bundled_share_2025": null,
+   "monthly": false,
+   "note": "Texas retailer: no monthly EIA series",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 20,
+   "slug": "xcel-energy-minnesota",
+   "brand": "Xcel Energy Minnesota (Northern States Power)",
+   "eia_name": "Northern States Power Co - Minnesota",
+   "eia_id": 13781,
+   "predecessors": [],
+   "states": [
+    "MN",
+    "SD",
+    "ND"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1420807,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 21,
+   "slug": "ladwp",
+   "brand": "LADWP (Los Angeles Department of Water and Power)",
+   "eia_name": "Los Angeles Department of Water & Power",
+   "eia_id": 11208,
+   "predecessors": [],
+   "states": [
+    "CA"
+   ],
+   "ownership": "Municipal",
+   "homes_2025": 1415602,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 22,
+   "slug": "xcel-energy-colorado",
+   "brand": "Xcel Energy Colorado (Public Service Company of Colorado)",
+   "eia_name": "Public Service Co of Colorado",
+   "eia_id": 15466,
+   "predecessors": [],
+   "states": [
+    "CO"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1379910,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 23,
+   "slug": "sdge",
+   "brand": "SDG&E (San Diego Gas & Electric)",
+   "eia_name": "San Diego Gas & Electric Co",
+   "eia_id": 16609,
+   "predecessors": [],
+   "states": [
+    "CA"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1378465,
+   "bundled_share_2025": 0.206,
+   "monthly": true,
+   "note": "not in the monthly sample 1993 to 2000",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 24,
+   "slug": "aep-ohio",
+   "brand": "AEP Ohio (Ohio Power)",
+   "eia_name": "Ohio Power Co",
+   "eia_id": 14006,
+   "predecessors": [
+    4062
+   ],
+   "states": [
+    "OH"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1348588,
+   "bundled_share_2025": 0.399,
+   "monthly": true,
+   "note": "Columbus Southern Power merged into Ohio Power after December 2011",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 25,
+   "slug": "alabama-power",
+   "brand": "Alabama Power",
+   "eia_name": "Alabama Power Co",
+   "eia_id": 195,
+   "predecessors": [],
+   "states": [
+    "AL"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1342827,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 26,
+   "slug": "ppl-electric",
+   "brand": "PPL Electric Utilities",
+   "eia_name": "PPL Electric Utilities Corp",
+   "eia_id": 14715,
+   "predecessors": [],
+   "states": [
+    "PA"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1311251,
+   "bundled_share_2025": 0.638,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 27,
+   "slug": "aps",
+   "brand": "APS (Arizona Public Service)",
+   "eia_name": "Arizona Public Service Co",
+   "eia_id": 803,
+   "predecessors": [],
+   "states": [
+    "AZ"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1287097,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 28,
+   "slug": "eversource-massachusetts",
+   "brand": "Eversource Massachusetts (NSTAR Electric)",
+   "eia_name": "NSTAR Electric Company",
+   "eia_id": 54913,
+   "predecessors": [
+    1998,
+    4089,
+    2886,
+    20455
+   ],
+   "states": [
+    "MA"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1274856,
+   "bundled_share_2025": 0.241,
+   "monthly": true,
+   "note": "Boston Edison, Commonwealth Electric and Cambridge Electric to 2006; Western Massachusetts Electric merged 2018",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 29,
+   "slug": "national-grid-massachusetts",
+   "brand": "National Grid Massachusetts (Massachusetts Electric)",
+   "eia_name": "Massachusetts Electric Co",
+   "eia_id": 11804,
+   "predecessors": [],
+   "states": [
+    "MA"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1231865,
+   "bundled_share_2025": 0.356,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 30,
+   "slug": "bge",
+   "brand": "BGE (Baltimore Gas and Electric)",
+   "eia_name": "Baltimore Gas & Electric Co",
+   "eia_id": 1167,
+   "predecessors": [],
+   "states": [
+    "MD"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1220644,
+   "bundled_share_2025": 0.937,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 31,
+   "slug": "eversource-connecticut",
+   "brand": "Eversource Connecticut (Connecticut Light & Power)",
+   "eia_name": "Connecticut Light & Power Co",
+   "eia_id": 4176,
+   "predecessors": [],
+   "states": [
+    "CT"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1193581,
+   "bundled_share_2025": 0.834,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 32,
+   "slug": "puget-sound-energy",
+   "brand": "Puget Sound Energy",
+   "eia_name": "Puget Sound Energy Inc",
+   "eia_id": 15500,
+   "predecessors": [],
+   "states": [
+    "WA"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1104338,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 33,
+   "slug": "ameren-missouri",
+   "brand": "Ameren Missouri (Union Electric)",
+   "eia_name": "Union Electric Co - (MO)",
+   "eia_id": 19436,
+   "predecessors": [],
+   "states": [
+    "MO"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1100654,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 34,
+   "slug": "srp",
+   "brand": "SRP (Salt River Project)",
+   "eia_name": "Salt River Project",
+   "eia_id": 16572,
+   "predecessors": [],
+   "states": [
+    "AZ"
+   ],
+   "ownership": "Political Subdivision",
+   "homes_2025": 1074095,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 35,
+   "slug": "ameren-illinois",
+   "brand": "Ameren Illinois",
+   "eia_name": "Ameren Illinois Company",
+   "eia_id": 56697,
+   "predecessors": [
+    3253,
+    3252,
+    9208
+   ],
+   "states": [
+    "IL"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1062810,
+   "bundled_share_2025": 0.553,
+   "monthly": true,
+   "note": "CIPS, CILCO and Illinois Power merged October 2010",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 36,
+   "slug": "we-energies",
+   "brand": "We Energies (Wisconsin Electric Power)",
+   "eia_name": "Wisconsin Electric Power Co",
+   "eia_id": 20847,
+   "predecessors": [],
+   "states": [
+    "WI"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1056086,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 37,
+   "slug": "jcpl",
+   "brand": "JCP&L (Jersey Central Power & Light)",
+   "eia_name": "Jersey Central Power & Lt Co",
+   "eia_id": 9726,
+   "predecessors": [],
+   "states": [
+    "NJ"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 1047687,
+   "bundled_share_2025": 0.912,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 38,
+   "slug": "pseg-long-island",
+   "brand": "PSEG Long Island (Long Island Power Authority)",
+   "eia_name": "Long Island Power Authority",
+   "eia_id": 11171,
+   "predecessors": [
+    11172
+   ],
+   "states": [
+    "NY"
+   ],
+   "ownership": "State",
+   "homes_2025": 1032490,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "LILCO to 1998; LIPA from 1999, run by PSEG since 2014",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 39,
+   "slug": "entergy-louisiana",
+   "brand": "Entergy Louisiana",
+   "eia_name": "Entergy Louisiana LLC",
+   "eia_id": 11241,
+   "predecessors": [
+    7806,
+    55936
+   ],
+   "states": [
+    "LA"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 961871,
+   "bundled_share_2025": 1.0,
+   "monthly": true,
+   "note": "Gulf States Louisiana merged October 2015",
+   "tariff_url": null,
+   "tariff_checked": null
+  },
+  {
+   "rank": 40,
+   "slug": "ohio-edison",
+   "brand": "Ohio Edison (FirstEnergy)",
+   "eia_name": "Ohio Edison Co",
+   "eia_id": 13998,
+   "predecessors": [],
+   "states": [
+    "OH"
+   ],
+   "ownership": "Investor Owned",
+   "homes_2025": 961084,
+   "bundled_share_2025": 0.276,
+   "monthly": true,
+   "note": "",
+   "tariff_url": null,
+   "tariff_checked": null
+  }
+ ]
+}

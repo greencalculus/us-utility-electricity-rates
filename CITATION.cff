@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below. The data come from the US Energy Information Administration."
+type: dataset
+title: "US Utility Residential Electricity Prices, Monthly since 1990"
+abstract: >
+  Average residential electricity price, bill and use at the 40 biggest US electric utilities, every month since
+  January 1990, from returns filed with the US Energy Information Administration (Form 826, EIA-861M and EIA-861),
+  merged across corporate changes, with outages, net-metered rooftop solar, supply split and counties served.
+authors:
+  - family-names: Say
+    given-names: Jeremiah
+    affiliation: "GreenCalculus"
+    orcid: "https://orcid.org/0009-0009-2025-7691"
+doi: "10.5281/zenodo.24071582"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24071582"
+    description: "Concept DOI (always the latest version)"
+  - type: doi
+    value: "10.5281/zenodo.24071583"
+    description: "Version 2026.11.09 (EIA data to 2026-08)"
+  - type: url
+    value: "https://greencalculus.com/data/utility-rates/"
+    description: "Live page, refreshed monthly"
+version: "2026.11.09"
+date-released: "2026-11-09"
+url: "https://greencalculus.com/data/utility-rates/"
+repository-code: "https://github.com/greencalculus/us-utility-electricity-rates"
+license: CC-BY-4.0
+keywords: [electricity rates, utility rates, residential electricity prices, electric utilities, EIA-861M, EIA-861, SAIDI, net metering, energy affordability, United States]
+references:
+  - type: dataset
+    title: "Form EIA-861M, Monthly Electric Power Industry Report"
+    authors:
+      - name: "U.S. Energy Information Administration"
+    url: "https://www.eia.gov/electricity/data/eia861m/"
+  - type: dataset
+    title: "Form EIA-861, Annual Electric Power Industry Report"
+    authors:
+      - name: "U.S. Energy Information Administration"
+    url: "https://www.eia.gov/electricity/data/eia861/"
