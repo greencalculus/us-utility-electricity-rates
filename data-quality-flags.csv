@@ -1,0 +1,2 @@
+eia_utility_id,utility,state,first_affected_month,last_affected_month,fields,issue,evidence,checked
+54913,NSTAR Electric Company (Eversource Massachusetts),MA,2025-01,,residential price and bill for homes on the utility's own supply,"Reported figure is far below the filed rates; EIA values kept unedited","EIA-861 Basic Service less delivery-only price: 13.6c in 2024, 1.4c in 2025. Filed from 2026-09-01: 17.323c supply + 18.635c delivery (eastern Massachusetts).",2026-11-09

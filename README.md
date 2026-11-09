@@ -15,6 +15,12 @@ What homes actually paid, all charges in, at the 40 biggest electric utilities i
 
 Related: [electricity rates by state](https://greencalculus.com/data/electricity-rates-by-state/) · [average electric bill by state](https://greencalculus.com/data/average-electric-bill-by-state/) ([dataset, DOI 10.5281/zenodo.24067456](https://doi.org/10.5281/zenodo.24067456))
 
+## Known data issue: Eversource Massachusetts (NSTAR Electric, EIA ID 54913)
+
+From January 2025 the residential price EIA publishes for NSTAR Electric does not match the company's filed rates. EIA shows 19.7¢ per kWh for the 12 months to August 2026; Eversource's filed rates from 1 September 2026 are 17.323¢ supply plus 18.635¢ delivery in eastern Massachusetts, 35.958¢ before a $10 monthly charge. In EIA-861 the gap between the Basic Service price and the delivery-only price fell from 13.6¢ in 2024 to 1.4¢ in 2025.
+
+This archive keeps EIA's figures unedited. Do not use this utility's prices from 2025-01 onward as an all-in price. The affected range is listed in `data-quality-flags.csv`. Our reading is that reported Basic Service revenue stopped including supply; that is an inference and EIA has not confirmed it. Live page: https://greencalculus.com/data/utility-rates/
+
 ## Latest figures
 
 <!-- figures -->
@@ -79,9 +85,9 @@ The live pages update each time EIA publishes a month. This archive is versioned
 
 ## Cite
 
-> Say, J. (2026). *US Utility Residential Electricity Prices, Monthly since 1990* (Version 2026.11.09.1) [Data set]. GreenCalculus. https://doi.org/10.5281/zenodo.24071582
+> Say, J. (2026). *US Utility Residential Electricity Prices, Monthly since 1990* (Version 2026.11.09.2) [Data set]. GreenCalculus. https://doi.org/10.5281/zenodo.24071582
 
-Always-latest DOI: `10.5281/zenodo.24071582`. This exact version: `10.5281/zenodo.24071608`. See `CITATION.cff`.
+Always-latest DOI: `10.5281/zenodo.24071582`. This exact version: `10.5281/zenodo.24072524`. See `CITATION.cff`.
 
 ## Licence
 
